@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Rob Williams"
+title                    : "Bowen Wang"
 title_separator          : "-"
 name                     : &name "Rob Williams"
 description              : &description "Postdoc in Political Science"
@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : jayrobw
+  username               : 
 facebook:
   username               :
   app_id                 :
@@ -75,20 +75,20 @@ social:
 analytics:
   provider               : "google-universal" # false (default), "google", "google-universal", "custom"
   google:
-    tracking_id          : UA-178627262-1
+    tracking_id          : 
 
 
 # Site Author
 author:
-  name             : "Rob Williams"
-  avatar           : "profile.png"
-  bio              : "Postdoctoral Research Fellow"
-  location         : "St. Louis, MO"
+  name             : "google-universal"
+  avatar           : "bio.jpg"
+  bio              : "Master"
+  location         : "Chengdu, China"
   employer         :
   pubmed           :
-  orcid            : "http://orcid.org/0000-0001-9259-3883"
-  googlescholar    : "https://scholar.google.com/citations?user=fiaPSmgAAAAJ"
-  email            : "rob.williams@wustl.edu"
+  orcid            : "http://orcid.org/0000-0002-6366-1397"
+  googlescholar    : "https://scholar.google.com.hk/citations?user=9DHl-h0AAAAJ&hl=zh-CN&oi=sra"
+  email            : "bevonwang@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -97,7 +97,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "jayrobwilliams"
+  github           : "bw-wang"
   google_plus      :
   keybase          :
   instagram        :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "jayrobw"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
