@@ -8,10 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-
-
-# Bio
-
 Welcome! I am a Postdoctoral Research Fellow in the
 [Weidenbaum Center on the Economy, Government, and Public Policy](https://wc.wustl.edu/) 
 and [Department of Political Science](https://polisci.wustl.edu/) at
