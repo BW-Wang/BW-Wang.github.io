@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: "About me"
-excerpt: "About me"
+title: "Bio"
+excerpt: "Bio"
 author_profile: true
 redirect_from: 
   - /about/
@@ -27,3 +27,4 @@ primarily focus on civil conflict, I also examine contentious political
 phenomena including terrorism and economic statecraft. I have
 [teaching](teaching) experience in both international relations and quantitative
 methodology.
+
