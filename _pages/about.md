@@ -8,6 +8,10 @@ redirect_from:
   - /about.html
 ---
 
+
+
+# Bio
+
 Welcome! I am a Postdoctoral Research Fellow in the
 [Weidenbaum Center on the Economy, Government, and Public Policy](https://wc.wustl.edu/) 
 and [Department of Political Science](https://polisci.wustl.edu/) at
@@ -18,6 +22,10 @@ my Ph.D in Political Science from the
 [University *of* North Carolina *at* Chapel Hill](https://www.unc.edu/) and my
 B.A. in Political Science from [Haverford College](https://www.haverford.edu/).
 
+
+
+# News
+
 My work has been [published](publications) or is forthcoming in
 *International Studies Quarterly*, *Political Science Research and Methods*,
 and *The Journal of Open Source Software*. My [research](research) explores the
@@ -27,4 +35,3 @@ primarily focus on civil conflict, I also examine contentious political
 phenomena including terrorism and economic statecraft. I have
 [teaching](teaching) experience in both international relations and quantitative
 methodology.
-
