@@ -1,5 +1,5 @@
 ---
-permalink: /
+permalink: /news/
 title: "Bio"
 excerpt: "Bio"
 author_profile: true
@@ -22,7 +22,7 @@ B.A. in Political Science from [Haverford College](https://www.haverford.edu/).
 
 # News
 
-[New]
+[New]1
 
 <nbsp>
 
