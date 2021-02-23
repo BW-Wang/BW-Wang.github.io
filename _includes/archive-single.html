@@ -42,25 +42,13 @@
 
     {% if post.collection == 'teaching' %}
       <p> {{ post.type }}, <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
-	{% elsif post.collection == 'bio' %}
+	{% elsif post.collection == 'news' %}
 		<p> 
 			{% if post.newsdate %}
 				{{ post.newsdate }}
 			{% endif %}
 			{% if post.newscont %}
 				{{ post.newscont }}
-			{% endif %}
-			{% if post.newslink %}
-				<a href="{{ post.newslink }}"><i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a>
-			{% endif %}
-			{% if post.newsurl %}
-				<a href="{{ post.newsurl }}"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a>
-			{% endif %}
-			{% if post.newscode %}
-				<a href="{{ post.newscode }}"><i class="fas fa-fw fa-code zoom" aria-hidden="true"></i></a>
-			{% endif %}
-			{% if post.newsgithub %}
-				<a href="{{ post.newsgithub }}"><i class="fab fa-fw fa-github zoom" aria-hidden="true"></i></a>
 			{% endif %}
 		</p>
     {% elsif post.collection == 'publications' %}

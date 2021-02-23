@@ -22,7 +22,7 @@ B.A. in Political Science from [Haverford College](https://www.haverford.edu/).
 
 # News
 
-[New]
+[New]king
 
 <nbsp>
 
@@ -31,6 +31,3 @@ B.A. in Political Science from [Haverford College](https://www.haverford.edu/).
 {% for post in site.news reversed %}
   {% include archive-single.html %}
 {% endfor %}
-
-
-
