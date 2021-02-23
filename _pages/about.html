@@ -34,7 +34,7 @@ redirect_from:
 
 <br>
 <ol>
-	{% for post in site.publications %}
+	{% for post in site.confpapers %}
 	<li>
       {% if post.citation %}
         {{ post.citation }}
@@ -58,7 +58,7 @@ redirect_from:
 
 <br>
 <ol>
-	{% for post in site.confpapers %}
+	{% for post in site.publications %}
 	<li>
 		{% if post.level == 'conference' %}
 			{% if post.citation %}
