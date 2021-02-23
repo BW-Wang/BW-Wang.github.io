@@ -4,6 +4,7 @@ newscont: "Numerical simulation of the effects of InAlSb barrier layers on the I
 collection: news
 permalink: /news/news-wbw
 date: 2019-11-1
+newdate: "02/2021"
 newsurl: '/files/pdf/papers/SPIE.pdf'
 newslink: 'https://doi.org/10.1117/12.2536915'
 newscode: 'https://bw-wang.github.io/publications/'

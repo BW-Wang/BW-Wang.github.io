@@ -12,13 +12,13 @@ redirect_from:
 {% include base_path %}
 
 <body>
-	<h2>Journal</h2>
-	<ol>
+	<h2>News</h2>
+	<ul>
 		{% for post in site.news %}
 			<li>
-				{% if post.newstitle %}
-					{{ post.newstitle }}
-				{% endif %}
+				<font face="verdana" color="#DC143C">New</font>
+				{{ post.date | default: "1900-01-01" | date: "%Y" }} 
+				{{ post.newstitle }}
 				<br>
 				{% if post.newslink %}
 					<a href="{{ post.newslink }}"><i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a>
@@ -34,6 +34,6 @@ redirect_from:
 				{% endif %}
 			</li>			
 	{% endfor %}
-	</ol>
+	</ul>
 	
 </body>
