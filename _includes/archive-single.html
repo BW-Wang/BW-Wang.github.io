@@ -28,7 +28,9 @@
 
     <h2 class="archive__item-title" itemprop="headline">
       {% if post.collection == 'publications' %}
-        {{ title }}
+		<ol start="5">
+			<li>{{ title }}</li>
+		</ol>
       {% elsif post.link %}
         <a href="{{ post.link }}">{{ title }}</a> <a href="{{ base_path }}{{ post.url }}" rel="permalink"><i class="fa fa-link" aria-hidden="true" title="permalink"></i><span class="sr-only">Permalink</span></a>
       {% else %}
@@ -55,25 +57,21 @@
       
       <!-- citation and icon code -->
       <p>
-		<ol start="1">
-			<li>
-				{% if post.citation %}
-					{{ post.citation }}
-				{% endif %}
-				{% if post.link %}
-					<a href="{{ post.link }}"><i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a>
-				{% endif %}
-				{% if post.paperurl %}
-					<a href="{{ post.paperurl }}"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a>
-				{% endif %}
-				{% if post.code %}
-					<a href="{{ post.code }}"><i class="fas fa-fw fa-code zoom" aria-hidden="true"></i></a>
-				{% endif %}
-				{% if post.github %}
-					<a href="{{ post.github }}"><i class="fab fa-fw fa-github zoom" aria-hidden="true"></i></a>
-				{% endif %}
-			</li>
-		</ol>
+		{% if post.citation %}
+			{{ post.citation }}
+		{% endif %}
+		{% if post.link %}
+			<a href="{{ post.link }}"><i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a>
+		{% endif %}
+		{% if post.paperurl %}
+			<a href="{{ post.paperurl }}"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a>
+		{% endif %}
+		{% if post.code %}
+			<a href="{{ post.code }}"><i class="fas fa-fw fa-code zoom" aria-hidden="true"></i></a>
+		{% endif %}
+		{% if post.github %}
+			<a href="{{ post.github }}"><i class="fab fa-fw fa-github zoom" aria-hidden="true"></i></a>
+		{% endif %}
       <br>
       </p>
     {% elsif post.collection == 'posts' and post.date %}
