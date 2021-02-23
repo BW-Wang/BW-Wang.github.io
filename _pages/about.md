@@ -1,5 +1,5 @@
 ---
-permalink: /
+permalink: /news/
 title: "Bio"
 excerpt: "Bio"
 author_profile: true
@@ -22,12 +22,15 @@ B.A. in Political Science from [Haverford College](https://www.haverford.edu/).
 
 # News
 
-My work has been [published](publications) or is forthcoming in
-*International Studies Quarterly*, *Political Science Research and Methods*,
-and *The Journal of Open Source Software*. My [research](research) explores the
-causes and consequences of political violence using a broad variety of methods
-such as latent variable models, geospatial analysis, and big data. While I
-primarily focus on civil conflict, I also examine contentious political
-phenomena including terrorism and economic statecraft. I have
-[teaching](teaching) experience in both international relations and quantitative
-methodology.
+<nbsp>
+
+{% if author.googlescholar %}
+  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
+{% endif %}
+
+{% include base_path %}
+
+{% for post in site.publications reversed %}
+  {% include archive-single.html %}
+{% endfor %}
+
