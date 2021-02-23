@@ -22,6 +22,5 @@ B.A. in Political Science from [Haverford College](https://www.haverford.edu/).
 
 # News
 
-* <font face="verdana" color=#DC143C>New</font>
+* <font face="verdana" color="#DC143C">New</font>02/2021 WBW I read this paper
 
-  02/2021 WBW 
