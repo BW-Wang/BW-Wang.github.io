@@ -17,7 +17,7 @@ redirect_from:
 		{% for post in site.news %}
 			<li>
 				<font face="verdana" color="#DC143C">New</font>
-				{{ post.date | default: "1900-01-01" | date: "%Y" }} 
+				{{ post.newsdate | default: "1900-01-01" | date: "%Y" }} 
 				{{ post.newstitle }}
 				<br>
 				{% if post.newslink %}
