@@ -33,4 +33,8 @@ author_profile: true
 
 
 
+{% for post in site.bio reversed %}
+  {% include archive-single.html %}
+{% endfor %}
+
 <sup>*</sup> Equal authorship statement

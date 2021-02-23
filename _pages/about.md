@@ -22,7 +22,7 @@ B.A. in Political Science from [Haverford College](https://www.haverford.edu/).
 
 # News
 
-[New]kingssss
+[<font face="verdana" color="red">New</font>]
 
 <nbsp>
 
