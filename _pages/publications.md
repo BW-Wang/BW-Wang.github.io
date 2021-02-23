@@ -15,9 +15,7 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
-Zhao, Zhiqin, Xu Qian, **Bowen Wang**, and Bowen Jia. "Numerical simulation of the effects of InAlSb barrier layers on the InSb mid-infrared photodetectors on a mismatched substrate." In *Optoelectronic Devices and Integration VIII*, vol. 11184, p. 1118411. International Society for Optics and Photonics, 2019.
-
-[link](https://doi.org/10.1117/12.2536915) `[Working Paper](/files/pdf/working-paper.pdf){: .btn--research}`.
+Zhao, Zhiqin, Xu Qian, **Bowen Wang**, and Bowen Jia. "Numerical simulation of the effects of InAlSb barrier layers on the InSb mid-infrared photodetectors on a mismatched substrate." In *Optoelectronic Devices and Integration VIII*, vol. 11184, p. 1118411. International Society for Optics and Photonics, 2019.<a href="{{ [HTML  标签 | 菜鸟教程 (runoob.com)](https://www.runoob.com/tags/tag-i.html) }}"><i class="fab fa-fw fa-github zoom" aria-hidden="true"></i></a>
 
 <sup>*</sup> Equal authorship statement
 
