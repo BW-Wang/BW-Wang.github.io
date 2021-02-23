@@ -1,0 +1,27 @@
+---
+layout: archive
+permalink: /
+title: "Bio"
+excerpt: "Bio"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
+
+{% include base_path %}
+{% for post in site.news %}
+	{{ newscont }}
+	{% if post.newslink %}
+		<a href="{{ post.newslink }}"><i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a>
+	{% endif %}
+	{% if post.newsurl %}
+		<a href="{{ post.newsurl }}"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a>
+	{% endif %}
+	{% if post.newscode %}
+		<a href="{{ post.newscode }}"><i class="fas fa-fw fa-code zoom" aria-hidden="true"></i></a>
+	{% endif %}
+	{% if post.newsgithub %}
+		<a href="{{ post.newsgithub }}"><i class="fab fa-fw fa-github zoom" aria-hidden="true"></i></a>
+	{% endif %}
+{% endfor %}
