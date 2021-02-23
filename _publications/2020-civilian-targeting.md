@@ -3,6 +3,7 @@ title: "Under the Roof of Rebels: Civilian Targeting After Territorial Takeover 
 collection: publications
 permalink: /publication/forthcoming-civilian-targeting
 date: 2020-06-08
+level: journal
 venue: 'International Studies Quarterly'
 paperurl: '/files/pdf/research/Under the Roof of Rebels.pdf'
 link: 'https://doi.org/10.1093/isq/sqaa009'
