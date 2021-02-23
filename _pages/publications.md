@@ -33,7 +33,7 @@ author_profile: true
 
 
 
-{% for post in site.bio reversed %}
+{% for post in site.news reversed %}
   {% include archive-single.html %}
 {% endfor %}
 

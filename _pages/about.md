@@ -22,12 +22,4 @@ B.A. in Political Science from [Haverford College](https://www.haverford.edu/).
 
 # News
 
-[<font face="verdana" color="red">New</font>]
-
-<nbsp>
-
-{% include base_path %}
-
-{% for post in site.bio reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+* <font face="verdana" color="red">New</font> [02/2021]
