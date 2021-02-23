@@ -32,8 +32,10 @@ redirect_from:
       </p>
 {% endfor %}
 
-{% for post in site.publications %}
-	<p>
+<br>
+<ol>
+	{% for post in site.publications %}
+	<li>
       {% if post.citation %}
         {{ post.citation }}
       {% endif %}
@@ -50,5 +52,8 @@ redirect_from:
       {% if post.github %}
         <a href="{{ post.github }}"><i class="fab fa-fw fa-github zoom" aria-hidden="true"></i></a>
       {% endif %}
-      </p>
+      </li>
 {% endfor %}
+</ol>
+
+
