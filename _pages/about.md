@@ -22,12 +22,12 @@ B.A. in Political Science from [Haverford College](https://www.haverford.edu/).
 
 # News
 
-[New]king
+[New]kingssss
 
 <nbsp>
 
 {% include base_path %}
 
-{% for post in site.news reversed %}
+{% for post in site.bio reversed %}
   {% include archive-single.html %}
 {% endfor %}
