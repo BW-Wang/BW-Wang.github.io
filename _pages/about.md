@@ -24,5 +24,13 @@ B.A. in Political Science from [Haverford College](https://www.haverford.edu/).
 
 [New]
 
+<nbsp>
+
+{% include base_path %}
+
+{% for post in site.news reversed %}
+  {% include archive-single.html %}
+{% endfor %}
+
 
 
