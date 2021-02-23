@@ -44,9 +44,6 @@
       <p> {{ post.type }}, <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
 	{% elsif post.collection == 'news' %}
 		<p> 
-			{% if post.newsdate %}
-				{{ post.newsdate }}
-			{% endif %}
 			{% if post.newscont %}
 				{{ post.newscont }}
 			{% endif %}
