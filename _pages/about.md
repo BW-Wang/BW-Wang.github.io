@@ -1,5 +1,5 @@
 ---
-permalink: /news/
+permalink: /
 title: "Bio"
 excerpt: "Bio"
 author_profile: true
