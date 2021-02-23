@@ -11,100 +11,56 @@ redirect_from:
 
 {% include base_path %}
 
-{% for post in site.news %}
-	<p>
-      {% if post.citation %}
-        {{ post.citation }}
-      {% endif %}
-      <br>
-      {% if post.link %}
-        <a href="{{ post.link }}"><i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a>
-      {% endif %}
-      {% if post.paperurl %}
-        <a href="{{ post.paperurl }}"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a>
-      {% endif %}
-      {% if post.code %}
-        <a href="{{ post.code }}"><i class="fas fa-fw fa-code zoom" aria-hidden="true"></i></a>
-      {% endif %}
-      {% if post.github %}
-        <a href="{{ post.github }}"><i class="fab fa-fw fa-github zoom" aria-hidden="true"></i></a>
-      {% endif %}
-      </p>
-{% endfor %}
-
-<br>
-<ol>
-	{% for post in site.confpapers %}
-	<li>
-      {% if post.citation %}
-        {{ post.citation }}
-      {% endif %}
-      <br>
-      {% if post.link %}
-        <a href="{{ post.link }}"><i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a>
-      {% endif %}
-      {% if post.paperurl %}
-        <a href="{{ post.paperurl }}"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a>
-      {% endif %}
-      {% if post.code %}
-        <a href="{{ post.code }}"><i class="fas fa-fw fa-code zoom" aria-hidden="true"></i></a>
-      {% endif %}
-      {% if post.github %}
-        <a href="{{ post.github }}"><i class="fab fa-fw fa-github zoom" aria-hidden="true"></i></a>
-      {% endif %}
-      </li>
-{% endfor %}
-</ol>
-
-<br>
-<h2>Journal Papers</h2>
-<ol>
-	{% for post in site.publications %}
-		{% if post.level == 'journal' %}
-			<li>
-				{% if post.citation %}
-					{{ post.citation }}
-				{% endif %}
-				<br>
-				{% if post.link %}
-					<a href="{{ post.link }}"><i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a>
-				{% endif %}
-				{% if post.paperurl %}
-					<a href="{{ post.paperurl }}"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a>
-				{% endif %}
-				{% if post.code %}
-					<a href="{{ post.code }}"><i class="fas fa-fw fa-code zoom" aria-hidden="true"></i></a>
-				{% endif %}
-				{% if post.github %}
-					<a href="{{ post.github }}"><i class="fab fa-fw fa-github zoom" aria-hidden="true"></i></a>
-				{% endif %}
-			</li>			
-		{% endif %}
-{% endfor %}
-
-<h2>Conference Papers</h2>
-<ol>
-	{% for post in site.publications %}
-		{% if post.level == 'conference' %}
-			<li>
-				{% if post.citation %}
-					{{ post.citation }}
-				{% endif %}
-				<br>
-				{% if post.link %}
-					<a href="{{ post.link }}"><i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a>
-				{% endif %}
-				{% if post.paperurl %}
-					<a href="{{ post.paperurl }}"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a>
-				{% endif %}
-				{% if post.code %}
-					<a href="{{ post.code }}"><i class="fas fa-fw fa-code zoom" aria-hidden="true"></i></a>
-				{% endif %}
-				{% if post.github %}
-					<a href="{{ post.github }}"><i class="fab fa-fw fa-github zoom" aria-hidden="true"></i></a>
-				{% endif %}
-			</li>			
-		{% endif %}
-{% endfor %}
-</ol>
-
+<body>
+	<h2>Journal</h2>
+	<ol>
+		{% for post in site.publications %}
+			{% if post.level == 'journal' %}
+				<li>
+					{% if post.citation %}
+						{{ post.citation }}
+					{% endif %}
+					<br>
+					{% if post.link %}
+						<a href="{{ post.link }}"><i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a>
+					{% endif %}
+					{% if post.paperurl %}
+						<a href="{{ post.paperurl }}"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a>
+					{% endif %}
+					{% if post.code %}
+						<a href="{{ post.code }}"><i class="fas fa-fw fa-code zoom" aria-hidden="true"></i></a>
+					{% endif %}
+					{% if post.github %}
+						<a href="{{ post.github }}"><i class="fab fa-fw fa-github zoom" aria-hidden="true"></i></a>
+					{% endif %}
+				</li>			
+			{% endif %}
+	{% endfor %}
+	</ol>
+	
+	<h2>Conference</h2>
+	<ol>
+		{% for post in site.publications %}
+			{% if post.level == 'conference' %}
+				<li>
+					{% if post.citation %}
+						{{ post.citation }}
+					{% endif %}
+					<br>
+					{% if post.link %}
+						<a href="{{ post.link }}"><i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a>
+					{% endif %}
+					{% if post.paperurl %}
+						<a href="{{ post.paperurl }}"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a>
+					{% endif %}
+					{% if post.code %}
+						<a href="{{ post.code }}"><i class="fas fa-fw fa-code zoom" aria-hidden="true"></i></a>
+					{% endif %}
+					{% if post.github %}
+						<a href="{{ post.github }}"><i class="fab fa-fw fa-github zoom" aria-hidden="true"></i></a>
+					{% endif %}
+				</li>			
+			{% endif %}
+	{% endfor %}
+	</ol>
+</body>
