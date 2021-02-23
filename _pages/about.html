@@ -56,12 +56,12 @@ redirect_from:
 {% endfor %}
 </ol>
 
+<br>
 <h2>Journal</h2>
 <ol>
 	{% for post in site.publications %}
 		{% if post.level == 'journal' %}
 			<li>
-
 				{% if post.citation %}
 					{{ post.citation }}
 				{% endif %}
@@ -82,6 +82,7 @@ redirect_from:
 		{% endif %}
 {% endfor %}
 
+<br>
 <h2>Conference</h2>
 <ol>
 	{% for post in site.publications %}
