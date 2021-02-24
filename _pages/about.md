@@ -24,3 +24,11 @@ B.A. in Political Science from [Haverford College](https://www.haverford.edu/).
 
 * <font face="verdana" color="#DC143C">New</font>02/2021 WBW I read this paper
 
+<nbsp>
+
+{% include base_path %}
+
+{% for post in site.news reversed %}
+  {% include archive-single.html %}
+{% endfor %}
+
