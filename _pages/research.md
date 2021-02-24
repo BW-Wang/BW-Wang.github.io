@@ -7,9 +7,11 @@ author_profile: true
 
 ## Dual-Function Radar-Communication (DFRC)
 
-***Time:*** From 10/2020 to Present
 
-***Content:***  THE increasing number of wireless devices leads to more and more serious spectrum congestion. As a consequence,
+
+<p><i><b><font color="red">Time:</font> </b></i> <i><b>From 10/2020 to Present</b></i></p>
+
+THE increasing number of wireless devices leads to more and more serious spectrum congestion. As a consequence,
 there is a serious spectrum overlap between different devices, such as airbone radars and navigation systems are close to the 3.4GHz band, which partially overlap with the Long Term Evolution (LTE) systems. Another instance is that the communication satellite (CS) systems and Wi-Fi systems operate in the C-band (4-8 GHz), which is also utilized by the military radars. To address the spectrum congestion between radar and communication, the communication radar spectrum sharing (CRSS) technology is a promising way.
 
 ![](/images/research/DFRC.png)
@@ -18,9 +20,9 @@ there is a serious spectrum overlap between different devices, such as airbone r
 
 ## Photovoltaic Intelligent Roof
 
-***Time:*** From 11/2019 to 07/2020
+<p><i><b><font color="red">Time:</font> </b></i> <i><b>From 11/2019 to 07/2020</b></i></p>
 
-***Content:*** In order to solve the problems of insufficient solar radiation reception and low efficiency of photovoltaic power generation in the existing photovoltaic energy-saving roof buildings in China, the project team proposed a high-efficiency energy-saving and refined design method based on the idea of refined design and combined with intelligent control technology, considering the regional and climatic characteristics, roof inclination, house specifications and skylight size and location Know about energy saving roof system. 
+In order to solve the problems of insufficient solar radiation reception and low efficiency of photovoltaic power generation in the existing photovoltaic energy-saving roof buildings in China, the project team proposed a high-efficiency energy-saving and refined design method based on the idea of refined design and combined with intelligent control technology, considering the regional and climatic characteristics, roof inclination, house specifications and skylight size and location Know about energy saving roof system. 
 
 ![](/images/research/JNJP.png)
 
@@ -28,8 +30,8 @@ According to the architectural requirements, the refined design scheme is genera
 
 ## Electronic Circuit Design
 
+<p><i><b><font color="red">Time:</font> </b></i> <i><b>From 01/2018 to 10/2019</b></i></p>
+
+At the beginning of entering the University, I have a strong interest in circuit design. I entered the center of electrical, electronic and innovation and Entrepreneurship of Wuhan University of science and technology (WHUT) with excellent performance examination, and carried out undergraduate internship training. Addicted to electronic circuit design, I have taught myself basic courses such as embedded circuit design and programming, FPGA, Altium designer and high frequency electronic circuit. Once designed digital bridge, intelligent paper counting device, smart grid current monitoring equipment, garbage collection robot and other equipment. As a team leader, I led the team members to participate in the national electronic design competition and won the first prize
+
 ![](/images/research/addesign.png)
-
-***Time:*** From 01/2018 to 10/2019
-
-***Content:*** 
