@@ -1,12 +1,14 @@
 ---
 permalink: /
-title: "Bio"
-excerpt: "Bio"
+title: "Home"
+excerpt: "Home"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+
+## Bio
 
 Welcome! I am a Postdoctoral Research Fellow in the
 [Weidenbaum Center on the Economy, Government, and Public Policy](https://wc.wustl.edu/) 

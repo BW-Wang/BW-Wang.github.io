@@ -30,6 +30,7 @@
 		{% if post.collection == 'publications' %}
 			{{ title }}
 		{% elsif post.collection == 'news' %}
+			{{ post.collection }}
 		{% elsif post.link %}
 			<a href="{{ post.link }}">{{ title }}</a> <a href="{{ base_path }}{{ post.url }}" rel="permalink"><i class="fa fa-link" aria-hidden="true" title="permalink"></i><span class="sr-only">Permalink</span></a>
 		{% else %}
@@ -37,9 +38,6 @@
 		{% endif %}
     </h2>
 	
-	{% if post.collection == 'news' %}
-		<h1 class="archive__item-title" itemprop="headline">News</h1>
-	{% endif %}		
     
     {% if post.read_time %}
       <p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> {% include read-time.html %}</p>
