@@ -18,12 +18,6 @@ my Ph.D in Political Science from the
 [University *of* North Carolina *at* Chapel Hill](https://www.unc.edu/) and my
 B.A. in Political Science from [Haverford College](https://www.haverford.edu/).
 
-
-
-# News
-
-* <font face="verdana" color="#DC143C">New</font>02/2021 WBW I read this paper
-
 <nbsp>
 
 {% include base_path %}
