@@ -8,9 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome!
-
-## Bio
+<font size=6><b>Bio</b></font>
 
 Welcome! I am a Postdoctoral Research Fellow in the
 [Weidenbaum Center on the Economy, Government, and Public Policy](https://wc.wustl.edu/) 
