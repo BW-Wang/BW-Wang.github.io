@@ -1,5 +1,5 @@
 ---
-permalink: /CFPs/
+permalink: /cfps/
 ---
 
 I maintain a list of deadlines for conferences that I’m interested in.
