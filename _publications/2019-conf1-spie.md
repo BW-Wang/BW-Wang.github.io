@@ -1,7 +1,7 @@
 ---
 title: "Numerical simulation of the effects of InAlSb barrier layers on the InSb mid-infrared photodetectors on a mismatched substrate."
 collection: publications
-permalink: /publication/2019-11-1-SPIE
+permalink: /publication/2019-conf1-spie
 date: 2019-11-1
 level: conference
 venue: 'International Society for Optics and Photonics'
