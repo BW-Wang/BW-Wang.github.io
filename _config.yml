@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Bowen Wang"
 title_separator          : "-"
-name                     : &name "Rob Williams"
+name                     : &name "Bowen Wang"
 description              : &description "Postdoc in Political Science"
 url                      : https://BW-Wang.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
