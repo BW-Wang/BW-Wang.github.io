@@ -3,7 +3,7 @@ newstitle: "Numerical simulation of the effects of InAlSb barrier layers on the 
 newscont: "Numerical simulation of the effects of InAlSb barrier layers on the InSb mid-infrared photodetectors on a mismatched substrate."
 collection: news
 permalink: /news/news-wbw
-date: 2019-11-1
+date: 2021-02-23
 newsdate: "[23/02/2021]"
 newsurl: '/files/pdf/papers/SPIE.pdf'
 newslink: 'https://doi.org/10.1117/12.2536915'
