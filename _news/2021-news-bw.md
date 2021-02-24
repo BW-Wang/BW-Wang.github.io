@@ -1,6 +1,6 @@
 ---
-newstitle: "Troubleshooting Jekyll build errors for GitHub Pages sites"
-newscont: "Troubleshooting Jekyll build errors for GitHub Pages sites"
+newstitle: "Preparation of Papers for IEEE TRANSACTIONS and JOURNALS (February 2017)"
+newscont: "Preparation of Papers for IEEE TRANSACTIONS and JOURNALS (February 2017)"
 collection: news
 permalink: /news/news-wbw
 date: 2021-01-11
