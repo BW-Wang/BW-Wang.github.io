@@ -1,0 +1,28 @@
+{% include base_path %}
+
+<body>
+	<h2>News</h2>
+	<ul>
+		{% for post in site.news %}
+			<li>
+				<font face="verdana" color="#DC143C">New</font>
+				{{ post.newsdate }} 
+				{{ post.newstitle }}
+				<br>
+				{% if post.newslink %}
+					<a href="{{ post.newslink }}"><i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a>
+				{% endif %}
+				{% if post.newsurl %}
+					<a href="{{ post.newsurl }}"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a>
+				{% endif %}
+				{% if post.newscode %}
+					<a href="{{ post.newscode }}"><i class="fas fa-fw fa-code zoom" aria-hidden="true"></i></a>
+				{% endif %}
+				{% if post.newsgithub %}
+					<a href="{{ post.newsgithub }}"><i class="fab fa-fw fa-github zoom" aria-hidden="true"></i></a>
+				{% endif %}
+			</li>			
+	{% endfor %}
+	</ul>
+	
+</body>

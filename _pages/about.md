@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-<font size=5><b>Bio</b></font>
+## Bio
 
 Welcome! I am a Postdoctoral Research Fellow in the
 [Weidenbaum Center on the Economy, Government, and Public Policy](https://wc.wustl.edu/) 
@@ -23,8 +23,6 @@ B.A. in Political Science from [Haverford College](https://www.haverford.edu/).
 <nbsp>
 
 {% include base_path %}
+{% include archive-news.html %}
 
-{% for post in site.news reversed %}
-  {% include archive-single.html %}
-{% endfor %}
 
