@@ -63,7 +63,7 @@ author_profile: true
 	{% for post in site.publications %}
 		{% if post.level == 'conference' %}
 			<li>
-				<h2 class="archive__item-title" itemprop="headline">{{ post.title }}</h2>
+				<h3 class="archive__item-title" itemprop="headline">{{ post.title }}</h3>
 				{% if post.citation %}
 					{{ post.citation }}
 				{% endif %}
