@@ -8,6 +8,8 @@ redirect_from:
   - /about.html
 ---
 
+Welcome!
+
 ## Bio
 
 Welcome! I am a Postdoctoral Research Fellow in the
