@@ -5,9 +5,10 @@ title: "Education"
 
 ## University of Electronic Science and Technology of China (UESTC)
 
-![](/image/education/uestc.png)
+![](/images/education/uestc.png)
 
-Master in Information Engineering [09/2021-Present]
++ Master in Information Engineering [09/2021-Present]
+  + Supervisor: [Prof.Ziyang Cheng](https://ieeexplore.ieee.org/author/37086074581)
 
 ## Wuhan University of Technology (WHUT)
 
