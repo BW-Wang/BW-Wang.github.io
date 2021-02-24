@@ -1,38 +1,10 @@
 ---
 layout: archive
 permalink: /publications/
-title: "Publications"
+title: "Journal"
 author_profile: true
 ---
-
 {% include base_path %}
-<h2 class="archive__item-title" itemprop="headline">Patents</h2>
-<ol>
-	{% for post in site.publications %}
-		{% if post.level == 'patent' %}
-			<li>
-				{% if post.citation %}
-					{{ post.citation }}
-				{% endif %}
-				<br>
-				{% if post.link %}
-					<a href="{{ post.link }}"><i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a>
-				{% endif %}
-				{% if post.paperurl %}
-					<a href="{{ post.paperurl }}"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a>
-				{% endif %}
-				{% if post.code %}
-					<a href="{{ post.code }}"><i class="fas fa-fw fa-code zoom" aria-hidden="true"></i></a>
-				{% endif %}
-				{% if post.github %}
-					<a href="{{ post.github }}"><i class="fab fa-fw fa-github zoom" aria-hidden="true"></i></a>
-				{% endif %}
-			</li>			
-		{% endif %}
-{% endfor %}
-</ol>
-
-<h2 class="archive__item-title" itemprop="headline">Journal</h2>
 <ol>
 	{% for post in site.publications %}
 		{% if post.level == 'journal' %}
@@ -58,12 +30,38 @@ author_profile: true
 {% endfor %}
 </ol>
 
-<h2 class="archive__item-title" itemprop="headline">Conference</h2>
+<h1 class="archive__item-title" itemprop="headline">Conference</h1>
 <ol>
 	{% for post in site.publications %}
 		{% if post.level == 'conference' %}
 			<li>
-				<h3 class="archive__item-title" itemprop="headline">{{ post.title }}</h3>
+				<h2 class="archive__item-title" itemprop="headline">{{ post.title }}</h2>
+				{% if post.citation %}
+					{{ post.citation }}
+				{% endif %}
+				<br>
+				{% if post.link %}
+					<a href="{{ post.link }}"><i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a>
+				{% endif %}
+				{% if post.paperurl %}
+					<a href="{{ post.paperurl }}"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a>
+				{% endif %}
+				{% if post.code %}
+					<a href="{{ post.code }}"><i class="fas fa-fw fa-code zoom" aria-hidden="true"></i></a>
+				{% endif %}
+				{% if post.github %}
+					<a href="{{ post.github }}"><i class="fab fa-fw fa-github zoom" aria-hidden="true"></i></a>
+				{% endif %}
+			</li>			
+		{% endif %}
+{% endfor %}
+</ol>
+
+<h1 class="archive__item-title" itemprop="headline">Patents</h1>
+<ol>
+	{% for post in site.publications %}
+		{% if post.level == 'patent' %}
+			<li>
 				{% if post.citation %}
 					{{ post.citation }}
 				{% endif %}
