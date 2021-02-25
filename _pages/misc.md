@@ -15,14 +15,15 @@ Well, I need this list to remind me to work harder.
 
 # Journals
 
-|                      Name                       |   IF   | Format |
-| :---------------------------------------------: | :----: | :----: |
-|        Transactions on Signal Processing        | 5.028  |  IEEE  |
-|     Transactions on Wireless Communications     | 6.779  |  IEEE  |
-|          IEEE Wireless Communications           | 11.391 |  IEEE  |
-|         Transactions on Communications          | 5.646  |  IEEE  |
-| Journal of Selected Topics in Signal Processing | 4.981  |  IEEE  |
-|   Journal on Selected Areas in Communications   | 11.42  |  IEEE  |
-|    IEEE Transactions on Vehicular Technology    | 5.379  |  IEEE  |
-|           IEEE Communications Letters           | 3.419  |  IEEE  |
-|         IEEE Signal Processing Letters          | 3.105  |  IEEE  |
+|                       Name                       | Impact Factor | Format |
+| :----------------------------------------------: | :-----------: | :----: |
+|       Communications  Surveys & Tutorials        |     23.7      |  IEEE  |
+|   Journal on Selected Areas in  Communications   |     11.42     |  IEEE  |
+|           IEEE Wireless Communications           |    11.391     |  IEEE  |
+|     Transactions on Wireless  Communications     |     6.779     |  IEEE  |
+|          Transactions on Communications          |     5.646     |  IEEE  |
+|    IEEE Transactions on Vehicular  Technology    |     5.379     |  IEEE  |
+|        Transactions on Signal  Processing        |     5.028     |  IEEE  |
+| Journal of Selected Topics in  Signal Processing |     4.981     |  IEEE  |
+|           IEEE Communications Letters            |     3.419     |  IEEE  |
+|          IEEE Signal Processing Letters          |     3.105     |  IEEE  |

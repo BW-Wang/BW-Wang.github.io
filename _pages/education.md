@@ -5,7 +5,7 @@ title: "Master"
 
 [![](/images/education/uestc.png)](https://en.uestc.edu.cn/)
 
-## University of Electronic Science and Technology of China (UESTC)
+<font size="5"><b>University of Electronic Science and Technology of China (UESTC)</b></font>
 
 + Master in Information Engineering [09/2021-Present]
   + Supervisor: [Prof.Ziyang Cheng](https://ieeexplore.ieee.org/author/37086074581)
