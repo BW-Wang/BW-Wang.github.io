@@ -1,14 +1,16 @@
 ---
 permalink: /education/
-title: "University of Electronic Science and Technology of China (UESTC)"
+title: "Master"
 ---
+
+## University of Electronic Science and Technology of China (UESTC)
 
 [![](/images/education/uestc.png)](https://en.uestc.edu.cn/)
 
 + Master in Information Engineering [09/2021-Present]
   + Supervisor: [Prof.Ziyang Cheng](https://ieeexplore.ieee.org/author/37086074581)
 
-# Wuhan University of Technology (WHUT)
+## [Wuhan University of Technology (WHUT)](http://english.whut.edu.cn/)
 
 [![](/images/education/whut.png)](http://english.whut.edu.cn/)
 
