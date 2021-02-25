@@ -5,7 +5,7 @@ title: "Master"
 
 [![](/images/education/uestc.png)](https://en.uestc.edu.cn/)
 
-<font size="5"><b>University of Electronic Science and Technology of China (UESTC)</b></font>
+<a href="https://en.uestc.edu.cn/" target="_blank"><font size="5"><b>University of Electronic Science and Technology of China (UESTC)</b></font></a>
 
 + Master in Information Engineering [09/2021-Present]
   + Supervisor: [Prof.Ziyang Cheng](https://ieeexplore.ieee.org/author/37086074581)
@@ -14,7 +14,7 @@ title: "Master"
 
 [![](/images/education/whut.png)](http://english.whut.edu.cn/)
 
-## [Wuhan University of Technology (WHUT)](http://english.whut.edu.cn/)
+<a href="http://english.whut.edu.cn/" target="_blank"><font size="5"><b>Wuhan University of Technology (WHUT)</b></font></a>
 
 + Bachelor in Communication Engineering [09/2017-06/2021]
   + Supervisor: [Prof.Bowen Jia](https://scholar.google.com.hk/citations?user=GLzYyJwAAAAJ&hl=en&oi=sra)
