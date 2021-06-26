@@ -1,6 +1,6 @@
 ---
 permalink: /education/
-title: "Master"
+title: "Education"
 ---
 
 <font size="5"><b>University of Electronic Science and Technology of China (UESTC)</b></font>
@@ -9,7 +9,6 @@ title: "Master"
   + Supervisor: [Prof.Ziyang Cheng](https://ieeexplore.ieee.org/author/37086074581)
   + First Class Freshmen Scholarship of UESTC, 2021
 
-# Bachelor
 
 <font size="5"><b>Wuhan University of Technology (WHUT)</b></font>
 
