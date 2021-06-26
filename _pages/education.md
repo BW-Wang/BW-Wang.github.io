@@ -3,8 +3,6 @@ permalink: /education/
 title: "Master"
 ---
 
-[![](/images/education/uestc.png)](https://en.uestc.edu.cn/)
-
 <font size="5"><b>University of Electronic Science and Technology of China (UESTC)</b></font>
 
 + Master in Information Engineering [09/2021-Present]
@@ -12,8 +10,6 @@ title: "Master"
   + First Class Freshmen Scholarship of UESTC, 2021
 
 # Bachelor
-
-[![](/images/education/whut.png)](http://english.whut.edu.cn/)
 
 <font size="5"><b>Wuhan University of Technology (WHUT)</b></font>
 
