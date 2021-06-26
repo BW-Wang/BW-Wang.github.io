@@ -8,6 +8,7 @@ title: "Academic awards"
 
 # Scholarship & Honors
 
+- First Class Freshmen Scholarship of UESTC, 2021
 - Excellent graduate students, 2021
 - Excellent graduation thesis for undergraduates, 2021
 - Excellent Academic Scholarship of WUT, 2018,2019,2020,2021
