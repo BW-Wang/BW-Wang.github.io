@@ -8,9 +8,6 @@ title: "Academic awards"
 
 # Scholarship & Honors
 
-- Academic Merit Scholarships of WHUT, 2020
-- Academic Merit Scholarships of WHUT, 2019
-- Academic Merit Scholarships of WHUT, 2018
-- Merit student of WHUT, 2020
-- Merit student of WHUT, 2019
-- Merit student of WHUT, 2018
+- Excellent graduate students, 2021
+- Excellent graduation thesis for undergraduates, 2021
+- Excellent Academic Scholarship of WUT, 2018,2019,2020,2021
