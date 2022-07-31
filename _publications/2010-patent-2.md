@@ -6,6 +6,6 @@ date: 2020-04-27
 level: patent
 venue: 'CN patent'
 link: 'https://www.cnipa.gov.cn/'
-citation: 'B. Jia, <b>B. Wang</b>, W. Sun. The invention relates to a multi-perception intelligent photovoltaic roof and its design method and design system[P]. China:CN202010357623.X, 2020-04-27.'
+citation: 'B. Jia, <b>B. Wang</b>, W. Sun. The invention relates to a multi-perception intelligent photovoltaic roof and its design method and design system[P]. China: CN202010357623.X, 2020-04-27.'
 ---
 
