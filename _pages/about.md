@@ -16,12 +16,12 @@ redirect_from:
 - Hybrid beamforming
 - Convex optimization
 
-
-<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=11g-GNEjFrFBGqOt4gjnbIZmHiEz9QazvKmvwvQiwkg"></script>
-
-
 <nbsp>
 
 {% include base_path %}
 {% include archive-news.html %}
+
+
+
+<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=080808&w=300&t=n&d=11g-GNEjFrFBGqOt4gjnbIZmHiEz9QazvKmvwvQiwkg&co=ffffff&cmo=3acc3a&cmn=ff5353&ct=808080'></script>
 
