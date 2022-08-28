@@ -5,7 +5,9 @@
 	<ul>
 		{% for post in site.news reversed %}
 			<li>
+				{% if {{post.newsdate | date: '%Y' }==2022} %}
 				<font face="verdana" color="#A51417"><b>New</b></font>
+				{% endif %}
 				<b>{{ post.newsdate }}</b> 
 				{{ post.newstitle }}
 				{% if post.newslink %}
