@@ -7,7 +7,7 @@ author_profile: true
 {% include base_path %}
 
 
-<ol>
+<ol reversed>
 	{% for post in site.publications reversed %}
 		{% if post.level == 'arVix' %}
 			<li>
@@ -31,7 +31,7 @@ author_profile: true
 {% endfor %}
 </ol>
 <h1 class="archive__item-title" itemprop="headline">Journal Paper</h1>
-<ol>
+<ol reversed>
 	{% for post in site.publications reversed %}
 		{% if post.level == 'journal' %}
 			<li>
@@ -55,7 +55,7 @@ author_profile: true
 {% endfor %}
 </ol>
 <h1 class="archive__item-title" itemprop="headline">Conference Paper</h1>
-<ol>
+<ol reversed>
 	{% for post in site.publications reversed %}
 		{% if post.level == 'conference' %}
 			<li>
@@ -79,7 +79,7 @@ author_profile: true
 {% endfor %}
 </ol>
 <h1 class="archive__item-title" itemprop="headline">Patent</h1>
-<ol>
+<ol reversed>
 	{% for post in site.publications reversed %}
 		{% if post.level == 'patent' %}
 			<li>
