@@ -2,8 +2,8 @@
 
 <body>
 	<h1>What's New</h1>
-	<ul reversed="reversed">
-		{% for post in site.news %}
+	<ul>
+		{% for post in reversed(site.news) %}
 			<li>
 				<font face="verdana" color="#A51417">New</font>
 				<b>{{ post.newsdate }}</b> 
