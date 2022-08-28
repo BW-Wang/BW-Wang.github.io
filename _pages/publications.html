@@ -8,7 +8,7 @@ author_profile: true
 
 
 <ol>
-	{% for post in site.publications %}
+	{% for post in site.publications reversed %}
 		{% if post.level == 'arVix' %}
 			<li>
 				{% if post.citation %}
@@ -32,7 +32,7 @@ author_profile: true
 </ol>
 <h1 class="archive__item-title" itemprop="headline">Journal Paper</h1>
 <ol>
-	{% for post in site.publications %}
+	{% for post in site.publications reversed %}
 		{% if post.level == 'journal' %}
 			<li>
 				{% if post.citation %}
@@ -56,7 +56,7 @@ author_profile: true
 </ol>
 <h1 class="archive__item-title" itemprop="headline">Conference Paper</h1>
 <ol>
-	{% for post in site.publications %}
+	{% for post in site.publications reversed %}
 		{% if post.level == 'conference' %}
 			<li>
 				{% if post.citation %}
@@ -80,7 +80,7 @@ author_profile: true
 </ol>
 <h1 class="archive__item-title" itemprop="headline">Patent</h1>
 <ol>
-	{% for post in site.publications %}
+	{% for post in site.publications reversed %}
 		{% if post.level == 'patent' %}
 			<li>
 				{% if post.citation %}
