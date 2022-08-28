@@ -5,7 +5,7 @@
 	<ul>
 		{% for post in site.news reversed %}
 			<li>
-				{% if post.date contains '2022' %}
+				{% if post.newsdate contains "2022" %}
 					<font face="verdana" color="#A51417"><b>New</b></font>
 				{% endif %}
 				<b>{{ post.newsdate }}</b> 
