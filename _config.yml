@@ -11,7 +11,7 @@ title                    : "Bowen Wang"
 title_separator          : "-"
 name                     : &name "Bowen Wang"
 description              : &description "Postdoc in Political Science"
-url                      : https://bowenwang.top # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://bowen-wang.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io" https://bowenwang.top 
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "BW-Wang/BW-Wang.github.io"
 teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
