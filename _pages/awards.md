@@ -8,6 +8,7 @@ title: "Academic awards"
 
 # Scholarship & Honors
 
+- First Class Scholarship of UESTC, 2022. **(No. 1 in the vote)**
 - First Class Freshmen Scholarship of UESTC, 2021
 - Excellent graduate students, 2021
 - Excellent graduation thesis for undergraduates, 2021
