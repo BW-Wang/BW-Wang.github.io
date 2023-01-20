@@ -1,5 +1,5 @@
 ---
-title: "Manifold Optimization for Hybrid Beamforming in Dual-Function Radar-Communication System."
+title: "Double-Phase-Shifter based Hybrid Beamforming for mmWave DFRC in the Presence of Extended Target and Clutters."
 collection: journal
 permalink: /publication/2022-journal-twc
 date: 2022-11-16

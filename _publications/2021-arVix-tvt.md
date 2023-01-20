@@ -1,5 +1,5 @@
 ---
-title: "Hybrid Beamforming in mmWave Dual-Function Radar-Communication Systems: Models, Technologies, and Challenges."
+title: "Relative Entropy-Based  Constant-Envelope Beamforming for Target Detection in Large-Scale MIMO Radar With Low-Resoultion ADCs."
 collection: arVix
 permalink: /publication/2021-arVix-tvt
 date: 2021-11-20
