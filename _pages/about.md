@@ -14,7 +14,6 @@ redirect_from:
 
 - Statistical signal processing, matrix analysis, convex optimization
 - Dual-Function Radar-Communication (DFRC)
-- Reconfigurable intelligent surface (RIS)
 - Massive MIMO, hybrid beamforming
 
 <nbsp>
