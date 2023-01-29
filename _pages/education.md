@@ -14,7 +14,7 @@ title: "Education"
 
 + Bachelor in Communication Engineering [09/2017-06/2021]
   + Supervisor: [Prof.Bowen Jia](https://scholar.google.com.hk/citations?user=GLzYyJwAAAAJ&hl=en&oi=sra)
-  + Advisor Prof.Xiaomei Zhang& Prof.Xinhua Liu
+  + Advisor Prof.Xiaomei Zhang & Prof.Xinhua Liu
   + Excellent Graduate Students, 2021
   + Excellent Graduation Thesis for Undergraduates, 2021
   + Academic Merit Scholarships of WUT, 2018,2019,2020,2021
