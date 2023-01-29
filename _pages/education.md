@@ -5,8 +5,9 @@ title: "Education"
 
 <font size="5"><b>University of Electronic Science and Technology of China (UESTC)</b></font>
 
-+ Master in Information Engineering [09/2021-Present]
++ Master in Electronic Information Engineering [09/2021-Present]
   + Supervisor: [Prof.Ziyang Cheng](https://scholar.google.com/citations?user=a8Ua8ywAAAAJ&hl)
+  + First Class scholarship of UESTC, 2022. <b>(No. 1 in the vote)</b>
   + First Class Freshmen Scholarship of UESTC, 2021
 
 <font size="5"><b>Wuhan University of Technology (WUT)</b></font>
