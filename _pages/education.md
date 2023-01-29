@@ -19,5 +19,5 @@ title: "Education"
   + Excellent graduation thesis for undergraduates, 2021
   + Academic Merit Scholarships of WUT, 2018,2019,2020,2021
   + Academic Excellence Scholarship of WUT, 2018,2019,2020,2021 
-  + Third Prize of 13th National University Student Social Practice and Science Contest on Energy Saving & Emission Reduction of China, 2020
-  + First Prize of National Undergraduate Electronic Design Contest of China, 2019
+  + **Third Prize** of 13th National University Student Social Practice and Science Contest on Energy Saving & Emission Reduction of China, 2020
+  + **First Prize** of National Undergraduate Electronic Design Contest of China, 2019
