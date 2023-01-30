@@ -21,7 +21,7 @@ Well, I need this list to remind me to work harder.
 |               IEEE Signal Processing Magazine                | 15.204        | [IEEE](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=79) |
 |              IEEE Vehicular Technology Magazine              | 13.609        | [IEEE](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=10209) |
 |                 IEEE Wireless Communications                 | 12.777        | [IEEE](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7742) |
-|                 IEEE Communications Magazine                 | 9.03          | 【IEEE](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=35) |
+|                 IEEE Communications Magazine                 | 9.03          | [IEEE](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=35) |
 |      IEEE Journal on Selected Areas in  Communications       | 13.081        | [IEEE](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=49) |
 |        IEEE Transactions on Wireless  Communications         | 8.346         | [IEEE](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7693) |
 |    IEEE Journal of Selected Topics in  Signal Processing     | 7.695         | [IEEE](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4200690) |
