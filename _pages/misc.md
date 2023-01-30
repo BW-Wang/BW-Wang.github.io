@@ -15,34 +15,22 @@ Well, I need this list to remind me to work harder.
 
 # Journals
 
-## Mag.
-
-|                        Magazine Name                         | Impact Factor | Format |
-| :----------------------------------------------------------: | ------------- | ------ |
-| [IEEE Communications Surveys and Tutorials](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=9739) | 33.84         | IEEE   |
-| [IEEE Signal Processing Magazine](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=79) | 15.204        | IEEE   |
-| [IEEE Vehicular Technology Magazine](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=10209) | 13.609        | IEEE   |
-| [IEEE Wireless Communications](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7742) | 12.777        | IEEE   |
-| [IEEE Communications Magazine](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=35) | 9.03          | IEEE   |
-
-## Trans.
-
-|                       **Journal Name**                       | **Impact Factor** | **Format** |
-| :----------------------------------------------------------: | ----------------- | ---------- |
-| [IEEE Journal on Selected Areas in  Communications](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=49) | 13.081            | IEEE       |
-| [IEEE Transactions on Wireless  Communications](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7693) | 8.346             | IEEE       |
-| [IEEE Journal of Selected Topics in  Signal Processing](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4200690) | 7.695             | IEEE       |
-| [IEEE Transactions on Cognitive Communications and Networking](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6687307) | 6.359             | IEEE       |
-| [IEEE Transactions on Vehicular  Technology](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=25) | 6.239             | IEEE       |
-| [IEEE Transactions on Communications](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=26) | 6.166             | IEEE       |
-| [IEEE Transactions on Signal  Processing](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=78) | 4.875             | IEEE       |
-| [Signal  Processing](https://www.sciencedirect.com/journal/signal-processing) | 4.829             | Elsevier   |
-| [IEEE Transactions on Aerospace and Electronic Systems](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7) | 3.491             | IEEE       |
-
-## Letters
-
-|                       **Letters Name**                       | **Impact Factor** | **Format** |
-| :----------------------------------------------------------: | ----------------- | ---------- |
-| [IEEE Wireless Communications Letters](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5962382) | 5.281             | IEEE       |
-| [IEEE Communications Letters](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4234) | 3.553             | IEEE       |
-| [IEEE Signal Processing Letters](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=97) | 3.201             | IEEE       |
+|                             Name                             | Impact Factor | Format                                                       |
+| :----------------------------------------------------------: | ------------- | ------------------------------------------------------------ |
+|          IEEE Communications Surveys and Tutorials           | 33.84         | [IEEE](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=9739) |
+|               IEEE Signal Processing Magazine                | 15.204        | [IEEE](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=79) |
+|              IEEE Vehicular Technology Magazine              | 13.609        | [IEEE](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=10209) |
+|                 IEEE Wireless Communications                 | 12.777        | [IEEE](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7742) |
+|                 IEEE Communications Magazine                 | 9.03          | 【IEEE](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=35) |
+|      IEEE Journal on Selected Areas in  Communications       | 13.081        | [IEEE](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=49) |
+|        IEEE Transactions on Wireless  Communications         | 8.346         | [IEEE](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7693) |
+|    IEEE Journal of Selected Topics in  Signal Processing     | 7.695         | [IEEE](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4200690) |
+| IEEE Transactions on Cognitive Communications and Networking | 6.359         | [IEEE](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6687307) |
+|          IEEE Transactions on Vehicular  Technology          | 6.239         | [IEEE](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=25) |
+|             IEEE Transactions on Communications              | 6.166         | [IEEE](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=26) |
+|           IEEE Transactions on Signal  Processing            | 4.875         | [IEEE](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=78) |
+|                      Signal  Processing                      | 4.829         | [Elsevier](https://www.sciencedirect.com/journal/signal-processing) |
+|    IEEE Transactions on Aerospace and Electronic Systems     | 3.491         | [IEEE](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7) |
+|             IEEE Wireless Communications Letters             | 5.281         | [IEEE](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5962382) |
+|                 IEEE Communications Letters                  | 3.553         | [IEEE](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4234) |
+|                IEEE Signal Processing Letters                | 3.201         | [IEEE](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=97) |
