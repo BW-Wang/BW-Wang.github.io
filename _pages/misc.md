@@ -7,13 +7,13 @@ Well, I need this list to remind me to work harder.
 
 # Upcoming
 
-| Name                                                                                            | Deadline     | Location                    | Format |
-|:-----------------------------------------------------------------------------------------------:|:------------:|:---------------------------:|:------:|
-| [RadarConf 2024](https://ieee-aess.org/event/conference/2024-ieee-radar-conference-radarconf24) | 11 Nov. 2022 | Denver, CO, USA             | IEEE   |
-| [ICASSP 2024](https://2023.ieeeicassp.org/)                                                     | 19 Oct. 2022 | Rhodes Island, Greece       | IEEE   |
-| [ICC 2024](https://icc2024.ieee-icc.org/)                                                       | 11 Oct. 2023 | Denver, CO, USA             | IEEE   |
-| [GlobeCom 2023](https://globecom2023.ieee-globecom.org/)                                        | 21 May 2023  | Kuala Lumpur, Malaysia      | IEEE   |
-| [WCNC 2024](https://wcnc2024.ieee-wcnc.org/)                                                    | 11 Sep. 2023 | Dubai, United Arab Emirates | IEEE   |
+|                             Name                             |   Deadline   |          Location           | Format |
+| :----------------------------------------------------------: | :----------: | :-------------------------: | :----: |
+| [RadarConf 2024](https://ieee-aess.org/event/conference/2024-ieee-radar-conference-radarconf24) | 20 Nov. 2023 |       Denver, CO, USA       |  IEEE  |
+|   [ICASSP 2024](https://2024.ieeeicassp.org/coming-soon/)    |     TBD.     |    Rhodes Island, Greece    |  IEEE  |
+|          [ICC 2024](https://icc2024.ieee-icc.org/)           | 04 Oct. 2023 |       Denver, CO, USA       |  IEEE  |
+|   [GlobeCom 2023](https://globecom2023.ieee-globecom.org/)   | 21 May 2023  |   Kuala Lumpur, Malaysia    |  IEEE  |
+|         [WCNC 2024](https://wcnc2024.ieee-wcnc.org/)         | 11 Sep. 2023 | Dubai, United Arab Emirates |  IEEE  |
 
 # Journals
 
