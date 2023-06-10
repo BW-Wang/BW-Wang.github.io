@@ -3,7 +3,7 @@
 title: "Double-Phase-Shifter based Hybrid Beamforming for mmWave DFRC in the Presence of Extended Target and Clutters."
 collection: journal
 permalink: /publication/2022-journal-twc
-date: 2022-11-16
+date: 2023-6-10
 level: journal
 paperurl: 'https://arxiv.org/abs/2112.02496'
 link: 'https://ieeexplore.ieee.org/document/9950549'
