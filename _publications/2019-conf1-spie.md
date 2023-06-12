@@ -1,4 +1,5 @@
 ---
+
 title: "Numerical simulation of the effects of InAlSb barrier layers on the InSb mid-infrared photodetectors on a mismatched substrate."
 collection: publications
 permalink: /publication/2019-conf1-spie
@@ -9,5 +10,6 @@ paperurl: '/files/pdf/papers/SPIE.pdf'
 link: 'https://doi.org/10.1117/12.2536915'
 code: 'https://bw-wang.github.io/publications/'
 github: 'https://github.com/jayrobwilliams/Peace-Agreement-Strength'
-citation: 'Z. Zhao, X. Qian, <b>B. Wang</b>, and B. Jia, "Numerical simulation of the effects of InAlSb barrier layers on the InSb mid-infrared photodetectors on a mismatched substrate," In <i>Optoelectronic Devices and Integration VIII</i>, vol. 11184, p. 1118411. International Society for Optics and Photonics, 2019'
+citation: 'Z. Zhao, X. Qian, <b>B. Wang</b>, and B. Jia, "Numerical simulation of the effects of InAlSb barrier layers on the InSb mid-infrared photodetectors on a mismatched substrate," In <i>Proceedings Optoelectronic Devices and Integration VIII. International Society for Optics and Photonics</i>, 2019, vol. 11184, pp. 158-164.'
+
 ---
