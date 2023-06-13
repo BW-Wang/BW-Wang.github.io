@@ -14,6 +14,9 @@ author_profile: true
 				{% if post.citation %}
 					{{ post.citation }}
 				{% endif %}
+				{% if post.content %}
+					<a href="{{ post.content }}"><i class="fas fa-fw fa-bars zoom" aria-hidden="true"></i></a>
+				{% endif %}
 				{% if post.link %}
 					<a href="{{ post.link }}"><i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a>
 				{% endif %}
