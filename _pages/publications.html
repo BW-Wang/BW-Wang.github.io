@@ -44,8 +44,14 @@ author_profile: true
 				{% if post.ieee %}
 					<a href="{{ post.ieee }}"><span style="color: #006699;"><i class="ai ai-ieee ai-lg zoom" aria-hidden="true"></i></span></a>
 				{% endif %}
+				{% if post.acm %}
+					<a href="{{ post.acm }}"><span style="color: #000000;"><i class="ai ai-acm ai-lg zoom" aria-hidden="true"></i></span></a>
+				{% endif %}
+				{% if post.elsevier %}
+					<a href="{{ post.elsevier }}"><span style="color: #FF6C00;"><i class="ai ai-elsevier ai-lg zoom" aria-hidden="true"></i></span></a>
+				{% endif %}
 				{% if post.springer %}
-					<a href="{{ post.springer }}"><span style="color: #006699;"><i class="ai ai-springer ai-lg zoom" aria-hidden="true"></i></span></a>
+					<a href="{{ post.springer }}"><span style="color: #002C5A;"><i class="ai ai-springer ai-lg zoom" aria-hidden="true"></i></span></a>
 				{% endif %}
 				{% if post.link %}
 					<a href="{{ post.link }}"><i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a>
@@ -70,6 +76,12 @@ author_profile: true
 			<li>
 				{% if post.citation %}
 					{{ post.citation }}
+				{% endif %}
+				{% if post.ieee %}
+					<a href="{{ post.ieee }}"><span style="color: #006699;"><i class="ai ai-ieee ai-lg zoom" aria-hidden="true"></i></span></a>
+				{% endif %}
+				{% if post.acm %}
+					<a href="{{ post.acm }}"><span style="color: #000000;"><i class="ai ai-acm ai-lg zoom" aria-hidden="true"></i></span></a>
 				{% endif %}
 				{% if post.link %}
 					<a href="{{ post.link }}"><i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a>
