@@ -1,7 +1,7 @@
 ---
 title: "The invention relates to a multi-perception intelligent photovoltaic roof and its design method and design system"
 collection: publications
-permalink: /publication/patent-2
+permalink: publications/patent-2
 date: 2020-04-27
 level: patent
 venue: 'CN patent'

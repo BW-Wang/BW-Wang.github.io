@@ -1,7 +1,7 @@
 ---
 title: "Manifold Optimization for Hybrid Beamforming in Dual-Function Radar-Communication System."
 collection: arVix
-permalink: /publication/2022-arVix-tvt
+permalink: publications/2022-arVix-tvt
 date: 2022-09-11
 level: arVix
 paperurl: 'http://arxiv.org/abs/2209.04848'

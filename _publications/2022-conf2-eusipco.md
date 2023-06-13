@@ -2,7 +2,7 @@
 
 title: "Hybrid Beamforming Design for OFDM Dual-Function Radar-Communication System with Double-Phase-Shifter Structure."
 collection: publications
-permalink: /publication/2022-conf2-eusipco
+permalink: publications/2022-conf2-eusipco
 date: 2022-8-13
 level: conference
 link: 'https://ieeexplore.ieee.org/abstract/document/9909797'

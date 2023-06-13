@@ -2,7 +2,7 @@
 
 title: "Joint Symbol-Level Precoding and Sub-Block-Level RIS Design for Dual-Function Radar-Communications."
 collection: publications
-permalink: /publication/2023-conf-icassp
+permalink: publications/2023-conf-icassp
 date: 1023-2-17
 level: conference
 link: 'https://ieeexplore.ieee.org/document/10096089'

@@ -2,7 +2,7 @@
 
 title: "Exploiting Constructive Interference in Symbol Level Hybrid Beamforming for Dual-Function Radar-Communication System."
 collection: publications
-permalink: /publication/2021-journal-wcl
+permalink: publications/2021-journal-wcl
 date: 2021-07-25
 level: journal
 venue: 'IEEE Wireless Communications Letters'

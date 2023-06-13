@@ -1,7 +1,7 @@
 ---
 title: "Hybrid Beamforming in mmWave Dual-Function Radar-Communication Systems: Models, Technologies, and Challenges."
 collection: arVix
-permalink: /publication/2022-arVix-wcm
+permalink: publications/2022-arVix-wcm
 date: 1022-09-10
 level: arVix
 paperurl: 'https://arxiv.org/abs/2209.04656'

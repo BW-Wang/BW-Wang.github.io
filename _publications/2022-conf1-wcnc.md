@@ -2,7 +2,7 @@
 
 title: "Spatial Spectrum Nulling for Wideband OFDM-DFRC System With Hybrid Beamforming Architecture."
 collection: publications
-permalink: /publication/2022-conf1-wcnc
+permalink: publications/2022-conf1-wcnc
 date: 2022-4-13
 level: conference
 link: 'https://ieeexplore.ieee.org/abstract/document/9771585'

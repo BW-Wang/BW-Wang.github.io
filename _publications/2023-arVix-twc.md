@@ -1,7 +1,7 @@
 ---
 title: "A Dual-Function Radar-Communication System Empowered by Beyond Diagonal Reconfigurable Intelligent Surface."
 collection: arVix
-permalink: /publication/2023-arVix-twc
+permalink: publications/2023-arVix-twc
 date: 2023-1-08
 level: arVix
 paperurl: 'http://arxiv.org/abs/2301.03286'
