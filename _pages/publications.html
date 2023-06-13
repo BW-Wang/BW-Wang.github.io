@@ -17,11 +17,11 @@ author_profile: true
 				{% if post.bars %}
 					<a href="{{ post.bars }}"><span style="color: #006699;"><i class="ai ai-ieee ai-lg zoom" aria-hidden="true"></i></span></a>
 				{% endif %}
+				{% if post.arxiv %}
+					<a href="{{ post.arxiv }}"><i class="ai ai-arxiv ai-lg zoom" aria-hidden="true"></i></a>
+				{% endif %}
 				{% if post.link %}
 					<a href="{{ post.link }}"><i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a>
-				{% endif %}
-				{% if post.paperurl %}
-					<a href="{{ post.paperurl }}"><i class="ai ai-arxiv ai-lg zoom" aria-hidden="true"></i></a>
 				{% endif %}
 				{% if post.code %}
 					<a href="{{ post.code }}"><i class="fas fa-fw fa-code zoom" aria-hidden="true"></i></a>
@@ -53,6 +53,9 @@ author_profile: true
 				{% if post.springer %}
 					<a href="{{ post.springer }}"><span style="color: #002C5A;"><i class="ai ai-springer ai-lg zoom" aria-hidden="true"></i></span></a>
 				{% endif %}
+				{% if post.arxiv %}
+					<a href="{{ post.arxiv }}"><i class="ai ai-arxiv ai-lg zoom" aria-hidden="true"></i></a>
+				{% endif %}
 				{% if post.link %}
 					<a href="{{ post.link }}"><i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a>
 				{% endif %}
@@ -82,6 +85,9 @@ author_profile: true
 				{% endif %}
 				{% if post.acm %}
 					<a href="{{ post.acm }}"><span style="color: #000000;"><i class="ai ai-acm ai-lg zoom" aria-hidden="true"></i></span></a>
+				{% endif %}
+				{% if post.arxiv %}
+					<a href="{{ post.arxiv }}"><i class="ai ai-arxiv ai-lg zoom" aria-hidden="true"></i></a>
 				{% endif %}
 				{% if post.link %}
 					<a href="{{ post.link }}"><i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a>
