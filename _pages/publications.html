@@ -14,20 +14,17 @@ author_profile: true
 				{% if post.citation %}
 					{{ post.citation }}
 				{% endif %}
-				{% if post.bars %}
-					<a href="{{ post.bars }}"><i class="ai ai-ieee ai-lg zoom" aria-hidden="true"></i></a>
+				{% if post.code %}
+					<a href="{{ post.code }}"><i class="fas fa-fw fa-code zoom" aria-hidden="true"></i></a>
 				{% endif %}
 				{% if post.arxiv %}
 					<a href="{{ post.arxiv }}"><i class="ai ai-arxiv ai-lg zoom" aria-hidden="true"></i></a>
 				{% endif %}
-				{% if post.link %}
-					<a href="{{ post.link }}"><i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a>
-				{% endif %}
-				{% if post.code %}
-					<a href="{{ post.code }}"><i class="fas fa-fw fa-code zoom" aria-hidden="true"></i></a>
-				{% endif %}
 				{% if post.github %}
 					<a href="{{ post.github }}"><i class="fab fa-fw fa-github zoom" aria-hidden="true"></i></a>
+				{% endif %}
+				{% if post.link %}
+					<a href="{{ post.link }}"><i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a>
 				{% endif %}
 			</li>			
 		{% endif %}
@@ -40,6 +37,9 @@ author_profile: true
 			<li>
 				{% if post.citation %}
 					{{ post.citation }}
+				{% endif %}
+				{% if post.code %}
+					<a href="{{ post.code }}"><i class="fas fa-fw fa-code zoom" aria-hidden="true"></i></a>
 				{% endif %}
 				{% if post.ieee %}
 					<a href="{{ post.ieee }}"><i class="ai ai-ieee ai-lg zoom" aria-hidden="true"></i></a>
@@ -59,17 +59,14 @@ author_profile: true
 				{% if post.arxiv %}
 					<a href="{{ post.arxiv }}"><i class="ai ai-arxiv ai-lg zoom" aria-hidden="true"></i></a>
 				{% endif %}
-				{% if post.link %}
-					<a href="{{ post.link }}"><i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a>
-				{% endif %}
-				{% if post.paperurl %}
-					<a href="{{ post.paperurl }}"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a>
-				{% endif %}
-				{% if post.code %}
-					<a href="{{ post.code }}"><i class="fas fa-fw fa-code zoom" aria-hidden="true"></i></a>
+				{% if post.fiels %}
+					<a href="{{ post.fiels }}"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a>
 				{% endif %}
 				{% if post.github %}
 					<a href="{{ post.github }}"><i class="fab fa-fw fa-github zoom" aria-hidden="true"></i></a>
+				{% endif %}
+				{% if post.link %}
+					<a href="{{ post.link }}"><i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a>
 				{% endif %}
 			</li>			
 		{% endif %}
@@ -83,6 +80,9 @@ author_profile: true
 				{% if post.citation %}
 					{{ post.citation }}
 				{% endif %}
+				{% if post.code %}
+					<a href="{{ post.code }}"><i class="fas fa-fw fa-code zoom" aria-hidden="true"></i></a>
+				{% endif %}
 				{% if post.ieee %}
 					<a href="{{ post.ieee }}"><i class="ai ai-ieee ai-lg zoom" aria-hidden="true"></i></a>
 				{% endif %}
@@ -92,17 +92,14 @@ author_profile: true
 				{% if post.arxiv %}
 					<a href="{{ post.arxiv }}"><i class="ai ai-arxiv ai-lg zoom" aria-hidden="true"></i></a>
 				{% endif %}
-				{% if post.link %}
-					<a href="{{ post.link }}"><i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a>
-				{% endif %}
-				{% if post.paperurl %}
-					<a href="{{ post.paperurl }}"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a>
-				{% endif %}
-				{% if post.code %}
-					<a href="{{ post.code }}"><i class="fas fa-fw fa-code zoom" aria-hidden="true"></i></a>
+				{% if post.fiels %}
+					<a href="{{ post.fiels }}"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a>
 				{% endif %}
 				{% if post.github %}
 					<a href="{{ post.github }}"><i class="fab fa-fw fa-github zoom" aria-hidden="true"></i></a>
+				{% endif %}
+				{% if post.link %}
+					<a href="{{ post.link }}"><i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a>
 				{% endif %}
 			</li>			
 		{% endif %}
