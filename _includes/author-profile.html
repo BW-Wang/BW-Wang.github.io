@@ -109,6 +109,9 @@
 	  {% if author.researchgate %}
         <li><a href="{{ author.researchgate }}"><i class="ai ai-fw ai-researchgate" aria-hidden="true"></i> ResearchGate</a></li>
       {% endif %}
+	  {% if author.ieee %}
+        <li><a href="{{ author.ieee }}"><i class="ai ai-fw ai-ieee" aria-hidden="true"></i> IEEE</a></li>
+      {% endif %}
       {% if author.pubmed %}
         <li><a href="{{ author.pubmed }}"><i class="ai ai-pubmed-square ai-fw"></i> PubMed</a></li>
       {% endif %}
