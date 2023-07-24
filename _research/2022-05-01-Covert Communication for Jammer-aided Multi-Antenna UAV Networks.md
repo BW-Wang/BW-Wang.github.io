@@ -7,7 +7,9 @@ date: 2022-05-01
 venue: 'In IEEE International Conference on Communications (ICC)'
 paperurl: 'https://ieeexplore.ieee.org/document/9838318'
 thumbnail: /images/research/DFRCsystem.png
-citation: 'Hongyang Du, Dusit Niyato, Yuan-ai Xie, Yanyu Cheng, Jiawen Kang, and Dong In Kim. "Covert Communication for Jammer-aided Multi-Antenna UAV Networks." <i>In IEEE International Conference on Communications (ICC)</i>, pp. 91-96., 2022.'
+citation: '
+1. Z. Cheng, L. Wu, <b>B. Wang</b>, M. R. B. Shankar, B. Liao and B. Ottersten, "Hybrid Beamforming in mmWave Dual-Function Radar-Communication Systems: Models, Technologies, and Challenges," submitted to <i>IEEE Magazine</i> <br>
+2. <b>B. Wang</b> and <i>et al</i>, "A Distributed Hybrid Beamforming Design Framework for Cooperative Cell-Free Dual-Function Radar-Communication Networks," submitted to <i>IEEE Transactions on Signal Processing</i>.'
 ---
 
 [Download paper here](https://hongyangdu.github.io/files/Du et al_Covert Communication for Jammer-aided Multi-Antenna UAV Networks.pdf)
