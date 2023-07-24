@@ -1,8 +1,8 @@
 ---
-title: "Covert Communication for Jammer-aided Multi-Antenna UAV Networks"
-excerpt: "We investigate a jammer-aided UAV covert communication system, aiming to maximize the user’s covert rate with optimized transmit and jamming power."
+title: "Millimeter Wave Dual-Function Radar-Communication System"
+excerpt: "We propose the inverse semantic communications as a new paradigm. Instead of extracting semantic information from messages, we aim to encode the taskrelated source messages into a hyper-source message for data transmission or storage. Following this paradigm, we design an inverse semantic-aware wireless sensing framework with three algorithms for data sampling, reconfigurable intelligent surface (RIS)-aided encoding, and self-supervised decoding, respectively. Using the sensing data collected from real-world, we show that our framework can reduce the data volume by 95% compared to that before encoding, without affecting the accomplishment of sensing tasks."
 collection: research
-permalink: /publication/2022-05-01-Covert Communication for Jammer-aided Multi-Antenna UAV Networks
+permalink: /publication/DFRC
 date: 2022-05-01
 venue: 'In IEEE International Conference on Communications (ICC)'
 paperurl: 'https://ieeexplore.ieee.org/document/9838318'
