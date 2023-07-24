@@ -2,6 +2,7 @@
 title: "Millimeter Wave Dual-Function Radar-Communication System"
 excerpt: "We propose the inverse semantic communications as a new paradigm. Instead of extracting semantic information from messages, we aim to encode the taskrelated source messages into a hyper-source message for data transmission or storage. Following this paradigm, we design an inverse semantic-aware wireless sensing framework with three algorithms for data sampling, reconfigurable intelligent surface (RIS)-aided encoding, and self-supervised decoding, respectively. Using the sensing data collected from real-world, we show that our framework can reduce the data volume by 95% compared to that before encoding, without affecting the accomplishment of sensing tasks."
 collection: research
+permalink: /research/DFRC
 restime: 'From Oct. 2020 to Present'
 thumbnail: /images/research/DFRCsystem.png
 works: '
