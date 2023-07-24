@@ -1,16 +1,21 @@
 ---
-title: "Millimeter Wave Dual-Function Radar-Communication System"
+title: "Photovoltaic Intelligent Roof"
 excerpt: "We propose the inverse semantic communications as a new paradigm. Instead of extracting semantic information from messages, we aim to encode the taskrelated source messages into a hyper-source message for data transmission or storage. Following this paradigm, we design an inverse semantic-aware wireless sensing framework with three algorithms for data sampling, reconfigurable intelligent surface (RIS)-aided encoding, and self-supervised decoding, respectively. Using the sensing data collected from real-world, we show that our framework can reduce the data volume by 95% compared to that before encoding, without affecting the accomplishment of sensing tasks."
 collection: research
-permalink: /research/DFRC
-date: 2021-11
-restime: 'From Oct. 2020 to Present'
-thumbnail: /images/research/DFRCsystem.png
+permalink: /research/Proof
+date: 2019-11
+restime: 'From Nov. 2019to July 2020'
+thumbnail: /images/research/Proof.png
 works: '
-<b>Selected Publications:</b> 
+<b>Selected Patents:</b> 
 <ol class="part1">
-  <li> Z. Cheng, L. Wu, <b>B. Wang</b>, M. R. B. Shankar, B. Liao and B. Ottersten, "Hybrid Beamforming in mmWave Dual-Function Radar-Communication Systems: Models, Technologies, and Challenges," submitted to <i>IEEE Magazine</i>. </li>
-  <li> <b>B. Wang</b> and <i>et al</i>, "A Distributed Hybrid Beamforming Design Framework for Cooperative Cell-Free Dual-Function Radar-Communication Networks," submitted to <i>IEEE Transactions on Signal Processing</i>. </li>
+  <li> B. Jia, Q. Hu, <b>B. Wang</b>, "A weather-aware intelligent skylight control system," ZL.202010452971.5, 2020. </li>
+  <li> B. Jia, <b>B. Wang</b>, W. Sun, "The invention relates to a multi-perception intelligent photovoltaic roof and its design method and design system," ZL202010357623.X, 2020. </li>
+  <li> B. Jia, W. Li, G. Chen, W. Sun, <b>B. Wang</b> and N. Xu, "Optimized Design of Skylight Arrangement to Enhance the Uniformity of Indoor Sunlight Illumination," Sustainability 2023, 15, 11257. </li>
+</ol>
+<b>Selected Award:</b> 
+<ol class="part1">
+  <li> <b>Third Prize</b> of 13th National University Student Social Practice and Science Contest on Energy Saving & Emission Reduction of China, 2020. </li>
 </ol>
 '
 ---
