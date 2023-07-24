@@ -165,10 +165,6 @@
                 <b>Selected Publications:</b> 
 				{{ post.citation }}
             </p>
-        {% elsif post.citation %}
-        <p><b>Recommended citation:</b> {{ post.citation }} </p>
-        {% elsif post.paperurl %}
-        <p>Download <a href=" {{ post.paperurl }} " target="_blank"><u>here</u></a></p>
         {% endif %}
     </article>
 </div>
