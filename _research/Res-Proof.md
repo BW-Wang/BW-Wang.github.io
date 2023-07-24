@@ -7,15 +7,12 @@ date: 2019-11-01
 restime: 'From Nov. 2019to July 2020'
 thumbnail: /images/research/Proof.png
 works: '
-<b>Selected Patents:</b> 
+<b>Selected Achievements:</b> 
 <ol class="part1">
   <li> B. Jia, Q. Hu, <b>B. Wang</b>, "A weather-aware intelligent skylight control system," ZL.202010452971.5, 2020. </li>
   <li> B. Jia, <b>B. Wang</b>, W. Sun, "The invention relates to a multi-perception intelligent photovoltaic roof and its design method and design system," ZL202010357623.X, 2020. </li>
-  <li> B. Jia, W. Li, G. Chen, W. Sun, <b>B. Wang</b> and N. Xu, "Optimized Design of Skylight Arrangement to Enhance the Uniformity of Indoor Sunlight Illumination," Sustainability 2023, 15, 11257. </li>
-</ol>
-<b>Selected Award:</b> 
-<ol class="part1">
-  <li> <b>Third Prize</b> of 13th National University Student Social Practice and Science Contest on Energy Saving & Emission Reduction of China, 2020. </li>
+  <li> B. Jia, W. Li, G. Chen, W. Sun, <b>B. Wang</b> and N. Xu, "Optimized Design of Skylight Arrangement to Enhance the Uniformity of Indoor Sunlight Illumination," <i>Sustainability</i> 2023, 15, 11257. </li>
+  <li> 13th National University Student Social Practice and Science Contest on Energy Saving & Emission Reduction of China, 2020. <b>Third Prize</b> </li>
 </ol>
 '
 ---
