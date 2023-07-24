@@ -124,7 +124,7 @@
 					<p class="page__date">
                         <strong>
                             <i class="fa fa-fw fa-calendar" aria-hidden="true"></i>
-                            {{ site.data.ui-text[site.locale].date_label | default: "Published:" }}
+                            {{ site.data.ui-text[site.locale].date_label | default: "<i>Times:</i>" }}
                         </strong>
 						<b>{{ post.venue}}</b>
                         <time datetime="{{ post.date | default: '1900-01-01' | date_to_xmlschema }}">
