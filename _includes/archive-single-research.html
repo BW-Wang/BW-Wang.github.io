@@ -15,7 +15,7 @@
 <style>
 
 	li {
-		margin-bottom: -2px !important;
+		margin-bottom: 0px !important;
         margin-top: -5px !important;
 	}
 	
@@ -149,10 +149,7 @@
                             <i class="fa fa-fw fa-calendar" aria-hidden="true"></i>
                             {{ Uploaded: | default: "Uploaded:" }}
                         </strong>
-						{{ post.venue}}
-                        <time datetime="{{ post.date | default: '1900-01-01' | date_to_xmlschema }}">
-                            {{post.date | default: "1900-01-01" | date: ", %B, %Y" }}
-                        </time>
+						{{ post.restime}}
                     </p>
                 {% endif %}
 
