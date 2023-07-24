@@ -1,6 +1,6 @@
 ---
 title: "Photovoltaic Intelligent Roof"
-excerpt: "We propose the inverse semantic communications as a new paradigm. Instead of extracting semantic information from messages, we aim to encode the taskrelated source messages into a hyper-source message for data transmission or storage. Following this paradigm, we design an inverse semantic-aware wireless sensing framework with three algorithms for data sampling, reconfigurable intelligent surface (RIS)-aided encoding, and self-supervised decoding, respectively. Using the sensing data collected from real-world, we show that our framework can reduce the data volume by 95% compared to that before encoding, without affecting the accomplishment of sensing tasks."
+excerpt: "To address the challenges of limited solar radiation reception and low efficiency in existing photovoltaic energy-saving roof buildings, we propose a high-efficiency energy-saving and refined design approach that integrates intelligent control technology. This method takes into account regional and climatic characteristics, roof inclination, house specifications, and skylight size and location to create an optimized energy-saving roof system. By leveraging refined design principles and intelligent control, we aims to enhance the overall energy efficiency and sustainability of photovoltaic power generation in building rooftops, contributing to a greener and more sustainable future."
 collection: research
 permalink: /research/Proof
 date: 2019-11-01
@@ -16,3 +16,6 @@ works: '
 </ol>
 '
 ---
+
+
+
