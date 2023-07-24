@@ -1,30 +1,16 @@
 ---
 layout: archive
 title: "Research"
-permalink: /research/
+permalink: /res/
 author_profile: true
+
 ---
 
-## Dual-Function Radar-Communication (DFRC)
+{% include base_path %}
 
+Please click on the paper title to view the free download link and short summary.
 
+{% for post in site.research reversed %}
+  {% include archive-single-research.html %}
+{% endfor %}
 
-<p><i><b><font color="red">Time:</font> </b></i> <i><b>From 10/2020 to Present</b></i></p>
-
-![](/images/research/DFRC_2.png)
-
-
-## Photovoltaic Intelligent Roof
-
-<p><i><b><font color="red">Time:</font> </b></i> <i><b>From 11/2019 to 07/2020</b></i></p>
-
-
-![](/images/research/JNJP.png)
-
-
-## Electronic Circuit Design
-
-<p><i><b><font color="red">Time:</font> </b></i> <i><b>From 01/2018 to 10/2019</b></i></p>
-
-
-![](/images/research/addesign.png)
