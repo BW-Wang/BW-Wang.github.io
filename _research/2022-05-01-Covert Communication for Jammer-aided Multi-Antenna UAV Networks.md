@@ -9,8 +9,8 @@ paperurl: 'https://ieeexplore.ieee.org/document/9838318'
 thumbnail: /images/research/DFRCsystem.png
 citation: '
 <dl>
-  <dt> Z. Cheng, L. Wu, <b>B. Wang</b>, M. R. B. Shankar, B. Liao and B. Ottersten, "Hybrid Beamforming in mmWave Dual-Function Radar-Communication Systems: Models, Technologies, and Challenges," submitted to <i>IEEE Magazine</i>. </dt>
-  <dt> <b>B. Wang</b> and <i>et al</i>, "A Distributed Hybrid Beamforming Design Framework for Cooperative Cell-Free Dual-Function Radar-Communication Networks," submitted to <i>IEEE Transactions on Signal Processing</i>. </dt>
+  <dd> [J1]. Z. Cheng, L. Wu, <b>B. Wang</b>, M. R. B. Shankar, B. Liao and B. Ottersten, "Hybrid Beamforming in mmWave Dual-Function Radar-Communication Systems: Models, Technologies, and Challenges," submitted to <i>IEEE Magazine</i>. </dd>
+  <dd> [J2]. <b>B. Wang</b> and <i>et al</i>, "A Distributed Hybrid Beamforming Design Framework for Cooperative Cell-Free Dual-Function Radar-Communication Networks," submitted to <i>IEEE Transactions on Signal Processing</i>. </dd>
 </dl>
 '
 ---
