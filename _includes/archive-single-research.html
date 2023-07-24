@@ -138,7 +138,7 @@
                             <i class="fa fa-fw fa-calendar" aria-hidden="true"></i>
                             {{ site.data.ui-text[site.locale].date_label | default: "Times:" }}
                         </strong>
-						<b>{{ post.venue}}</b>
+						<b>{{ post.restime}}</b>
                         <time datetime="{{ post.date | default: '1900-01-01' | date_to_xmlschema }}">
                             {{post.date | default: "1900-01-01" | date: ", %B, %Y" }}
                         </time>
