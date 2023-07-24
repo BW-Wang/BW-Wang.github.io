@@ -6,6 +6,7 @@ permalink: /research/DFRC
 restime: 'From Oct. 2020 to Present'
 thumbnail: /images/research/DFRCsystem.png
 works: '
+<b>Selected Publications:</b> 
 <ol class="part1">
   <li> Z. Cheng, L. Wu, <b>B. Wang</b>, M. R. B. Shankar, B. Liao and B. Ottersten, "Hybrid Beamforming in mmWave Dual-Function Radar-Communication Systems: Models, Technologies, and Challenges," submitted to <i>IEEE Magazine</i>. </li>
   <li> <b>B. Wang</b> and <i>et al</i>, "A Distributed Hybrid Beamforming Design Framework for Cooperative Cell-Free Dual-Function Radar-Communication Networks," submitted to <i>IEEE Transactions on Signal Processing</i>. </li>
