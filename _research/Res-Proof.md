@@ -21,6 +21,10 @@ works: '
 
 **Abstract:** To address the challenges of limited solar radiation reception and low efficiency in existing photovoltaic energy-saving roof buildings, we propose a high-efficiency energy-saving and refined design approach that integrates intelligent control technology. This method takes into account regional and climatic characteristics, roof inclination, house specifications, and skylight size and location to create an optimized energy-saving roof system. By leveraging refined design principles and intelligent control, we aims to enhance the overall energy efficiency and sustainability of photovoltaic power generation in building rooftops, contributing to a greener and more sustainable future.
 
+<br/><img src="/images/research/JNJP.png" width = "700">
+
+Fig. 1: System model of Photovoltaic Intelligent Roof.
+
 **Papers:**
 
 - B. Jia, W. Li, G. Chen, W. Sun, <b>B. Wang</b> and N. Xu, "Optimized Design of Skylight Arrangement to Enhance the Uniformity of Indoor Sunlight Illumination," <i>Sustainability</i> 2023, 15, 11257.
