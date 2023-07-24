@@ -5,7 +5,6 @@ collection: research
 permalink: /publication/DFRC
 date: 2022-05-01
 venue: 'In IEEE International Conference on Communications (ICC)'
-paperurl: 'https://ieeexplore.ieee.org/document/9838318'
 thumbnail: /images/research/DFRCsystem.png
 citation: '
 <br>[J1] Z. Cheng, L. Wu, <b>B. Wang</b>, M. R. B. Shankar, B. Liao and B. Ottersten, "Hybrid Beamforming in mmWave Dual-Function Radar-Communication Systems: Models, Technologies, and Challenges," submitted to <i>IEEE Magazine</i>.
