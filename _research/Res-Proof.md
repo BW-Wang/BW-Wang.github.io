@@ -4,7 +4,7 @@ excerpt: "We propose the inverse semantic communications as a new paradigm. Inst
 collection: research
 permalink: /research/Proof
 date: 2019-11-01
-restime: 'From Nov. 2019to July 2020'
+restime: 'From Nov. 2019 to July 2020'
 thumbnail: /images/research/Proof.png
 works: '
 <b>Selected Achievements:</b> 
