@@ -21,6 +21,6 @@ works: '
 
 **Index Terms**: Covert communication, multi-antenna UAV, performance analysis, optimization, Bargaining game.
 
-<br/><img src='/images/research/addesign.png' width = "700">
+<br/><img src='/images/research/DFRC_2.png' width = "700">
 
-Fig. 1: A jammer-aided multi-antenna UAV covert communication system.
+Fig. 1: A dual-function radar-communication system.
