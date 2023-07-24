@@ -13,3 +13,15 @@ title: "Academic awards"
 - Excellent Graduate Students, 2021
 - Excellent Graduation Thesis for Undergraduates, 2021
 - Excellent Academic Scholarship of WUT, 2018,2019,2020,2021
+
+# Reviewer for Journals & Conferences
+
+- IEEE Transactions on Vehicular Technology
+- IEEE Wireless Communications Letters
+- ICASSP, EUSIPCO, JC&S, etc
+
+# Membership
+
+- IEEE Student Member
+- EURASIP Student Member
+- IEEE SPS, ComSoc, VTS Student Member
