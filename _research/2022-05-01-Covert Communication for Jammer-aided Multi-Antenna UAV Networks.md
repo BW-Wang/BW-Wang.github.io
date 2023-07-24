@@ -1,12 +1,12 @@
 ---
 title: "Covert Communication for Jammer-aided Multi-Antenna UAV Networks"
 excerpt: "We investigate a jammer-aided UAV covert communication system, aiming to maximize the user’s covert rate with optimized transmit and jamming power."
-collection: publications
+collection: research
 permalink: /publication/2022-05-01-Covert Communication for Jammer-aided Multi-Antenna UAV Networks
 date: 2022-05-01
 venue: 'In IEEE International Conference on Communications (ICC)'
 paperurl: 'https://ieeexplore.ieee.org/document/9838318'
-thumbnail: /images/papers/covuav.png
+thumbnail: /images/research/DFRCsystem.png
 citation: 'Hongyang Du, Dusit Niyato, Yuan-ai Xie, Yanyu Cheng, Jiawen Kang, and Dong In Kim. "Covert Communication for Jammer-aided Multi-Antenna UAV Networks." <i>In IEEE International Conference on Communications (ICC)</i>, pp. 91-96., 2022.'
 ---
 
