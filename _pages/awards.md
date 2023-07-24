@@ -1,5 +1,5 @@
 ---
-permalink: /awards/
+permalink: /Awards & Services/
 title: "Academic awards"
 ---
 
