@@ -8,7 +8,10 @@ title: "Academic awards"
 
 # Scholarship & Honors
 
+- National Scholarship of Graduate Student, 2023
+- First Class Scholarship of UESTC, 2023. **(No. 1 in the vote)**
 - First Class Scholarship of UESTC, 2022. **(No. 1 in the vote)**
+
 - First Class Freshmen Scholarship of UESTC, 2021
 - Excellent Graduate Students, 2021
 - Excellent Graduation Thesis for Undergraduates, 2021
@@ -16,9 +19,11 @@ title: "Academic awards"
 
 # Reviewer for Journals & Conferences
 
+- IEEE Wireless Communications
 - IEEE Transactions on Vehicular Technology
+- IEEE Transactions on Radar Systems
 - IEEE Wireless Communications Letters
-- ICASSP, EUSIPCO, JC&S, etc
+- ICASSP, GlobeCom, JC&S, etc
 
 # Membership
 
