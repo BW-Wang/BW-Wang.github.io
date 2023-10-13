@@ -11,8 +11,8 @@ title: "Academic awards"
 - National Scholarship of Graduate Student, 2023
 - First Class Scholarship of UESTC, 2023. **(No. 1 in the vote)**
 - First Class Scholarship of UESTC, 2022. **(No. 1 in the vote)**
-
 - First Class Freshmen Scholarship of UESTC, 2021
+
 - Excellent Graduate Students, 2021
 - Excellent Graduation Thesis for Undergraduates, 2021
 - Excellent Academic Scholarship of WUT, 2018,2019,2020,2021
