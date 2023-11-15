@@ -9,8 +9,11 @@ main:
   - title: "Research"
     url: /research/
 
-  - title: "Awards & Services"
+  - title: "Awards"
     url: /awards/
+    
+  - title: "Services"
+    url: /services/
 
     
   - title: "CV"

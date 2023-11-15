@@ -12,7 +12,6 @@ title: "Academic awards"
 - First Class Scholarship of UESTC, 2023. **(No. 1 in the vote)**
 - First Class Scholarship of UESTC, 2022. **(No. 1 in the vote)**
 - First Class Freshmen Scholarship of UESTC, 2021
-
 - Excellent Graduate Students, 2021
 - Excellent Graduation Thesis for Undergraduates, 2021
 - Excellent Academic Scholarship of WUT, 2018,2019,2020,2021
@@ -22,8 +21,7 @@ title: "Academic awards"
 - IEEE Wireless Communications
 - IEEE Transactions on Vehicular Technology
 - IEEE Transactions on Radar Systems
-- IEEE Wireless Communications Letters
-- ICASSP, GlobeCom, JC&S, etc
+- ICASSP, GlobeCom, ICC, JC&S, etc
 
 # Membership
 

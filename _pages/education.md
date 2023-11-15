@@ -6,14 +6,16 @@ title: "Education"
 <font size="5"><b>University of Electronic Science and Technology of China (UESTC)</b></font>
 
 + Master in Communication Engineering [09/2021-Present]
-  + Supervisor: [Prof.Ziyang Cheng](https://scholar.google.com/citations?user=a8Ua8ywAAAAJ&hl)
+  + Supervisor: [Prof. Ziyang Cheng](https://scholar.google.com/citations?user=a8Ua8ywAAAAJ&hl)
+  + National Scholarship of Graduate Student, 2023
+  + First Class Scholarship of UESTC, 2023. **(No. 1 in the vote)**
   + First Class Scholarship of UESTC, 2022. **(No. 1 in the vote)**
   + First Class Freshmen Scholarship of UESTC, 2021
 
 <font size="5"><b>Wuhan University of Technology (WUT)</b></font>
 
 + Bachelor in Communication Engineering [09/2017-06/2021]
-  + Supervisor: [Prof.Bowen Jia](https://scholar.google.com.hk/citations?user=GLzYyJwAAAAJ&hl=en&oi=sra)
+  + Supervisor: [Prof. Bowen Jia](https://scholar.google.com.hk/citations?user=GLzYyJwAAAAJ&hl=en&oi=sra)
   + Advisor Prof.Xiaomei Zhang & Prof.Xinhua Liu
   + Excellent Graduate Students, 2021
   + Excellent Graduation Thesis for Undergraduates, 2021
