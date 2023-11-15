@@ -19,8 +19,8 @@ title: "Professional Membership"
 
 - International Conference on Acoustics, Speech, and Signal Processing (ICASSP)
 - IEEE Global Communications Conference (GLOBECOM)
-- IEEE International Conference on Communications
-- IEEE IEEE International Online Symposium on Joint Communications & Sensing
+- IEEE International Conference on Communications (ICC)
+- IEEE IEEE International Online Symposium on Joint Communications & Sensing (JC&S)
 - etc
 
 # TPC Member
