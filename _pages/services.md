@@ -17,13 +17,13 @@ title: "Professional Membership"
 
 # Reviewer for Conferences
 
-- International Conference on Acoustics, Speech, and Signal Processing (ICASSP) 2024
-- IEEE Global Communications Conference (GLOBECOM) 2023
-- IEEE International Conference on Communications 2024
-- IEEE IEEE International Online Symposium on Joint Communications & Sensing  2022, 2023
+- International Conference on Acoustics, Speech, and Signal Processing (ICASSP)
+- IEEE Global Communications Conference (GLOBECOM)
+- IEEE International Conference on Communications
+- IEEE IEEE International Online Symposium on Joint Communications & Sensing
 - etc
 
 # TPC Member
 
-- IEEE ICC 2024
-- IEEE GLOBECOM 2023
+- IEEE ICC 2024: SAC Integrated Sensing and Communication Track
+- IEEE GLOBECOM 2023: 8th Workshop on Integrated Sensing and Communications for Internet of Things
