@@ -13,6 +13,7 @@ title: "Professional Membership"
 - IEEE Wireless Communications
 - IEEE Transactions on Vehicular Technology
 - IEEE Transactions on Radar Systems
+- IEEE Wireless Communications Letters
 - etc
 
 # Reviewer for Conferences
