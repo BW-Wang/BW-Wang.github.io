@@ -18,10 +18,10 @@ title: "Professional Membership"
 
 # Reviewer for Conferences
 
-- International Conference on Acoustics, Speech, and Signal Processing (ICASSP)
+- IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP)
 - IEEE Global Communications Conference (GLOBECOM)
 - IEEE International Conference on Communications (ICC)
-- IEEE IEEE International Online Symposium on Joint Communications & Sensing (JC&S)
+- IEEE International Symposium on Joint Communications & Sensing (JC&S)
 - etc
 
 # TPC Member
