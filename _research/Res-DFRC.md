@@ -1,6 +1,6 @@
 ---
-title: "Millimeter Wave Dual-Function Radar-Communication System"
-excerpt: "As a promising technology in beyond-5G (B5G) and 6G, dual-function radar-communication (DFRC) aims to ensure both radar sensing and communication on a single integrated platform with unified signaling schemes. By integrating millimeter wave (mmWave) DFRC and massive multiple-input multipleoutput (MIMO), the DFRC can achieve high-precision sensing while guaranteeing high-throughput communications, which has emerged as a potential enabler for future B5G and 6G. We investigate the DFRC system with low-complexity hardware, intelligent reflecting surface aided DFRC and performance bound analysis of DFRC."
+title: "Millimeter Wave Integrated Sensing and Communication System"
+excerpt: "As a promising technology in beyond-5G (B5G) and 6G, integrated sensing and communication (ISAC) aims to ensure both radar sensing and communication on a single integrated platform with unified signaling schemes. By integrating millimeter wave (mmWave) ISAC and massive multiple-input multipleoutput (MIMO), the ISAC can achieve high-precision sensing while guaranteeing high-throughput communications, which has emerged as a potential enabler for future B5G and 6G. We investigate the ISAC system with low-complexity hardware, intelligent reflecting surface aided ISAC and performance bound analysis of ISAC."
 collection: research
 permalink: /research/DFRC
 date: 2021-11-01
@@ -17,10 +17,10 @@ works: '
 
 
 
-**Abstract:** As a promising technology in beyond-5G (B5G) and 6G, dual-function radar-communication (DFRC) aims to ensure both radar sensing and communication on a single integrated platform with unified signaling schemes. By integrating millimeter wave (mmWave) DFRC and massive multiple-input multipleoutput (MIMO), the DFRC can achieve high-precision sensing while guaranteeing high-throughput communications, which has emerged as a potential enabler for future B5G and 6G. We investigate the DFRC system with low-complexity hardware, intelligent reflecting surface aided DFRC and performance bound analysis of DFRC.
+**Abstract:** As a promising technology in beyond-5G (B5G) and 6G, integrated sensing and communication (ISAC) aims to ensure both radar sensing and communication on a single integrated platform with unified signaling schemes. By integrating millimeter wave (mmWave) ISAC and massive multiple-input multipleoutput (MIMO), the ISAC can achieve high-precision sensing while guaranteeing high-throughput communications, which has emerged as a potential enabler for future B5G and 6G. We investigate the ISAC system with low-complexity hardware, intelligent reflecting surface aided ISAC and performance bound analysis of ISAC.
 
 
 
 <br/><img src="/images/research/DFRC_2.png" width = "700">
 
-Fig. 1: System Model of Millimeter Wave Dual-Function Radar-Communication System.
+Fig. 1: System Model of Millimeter Wave Integrated Sensing and Communication System.
