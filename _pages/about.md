@@ -10,12 +10,12 @@ redirect_from:
 
 **Bowen Wang** received the B.S. degree (Hons.) in communication engineering in 2021 from [Wuhan University of Technology (WUT)](http://english.whut.edu.cn/), Wuhan, China. He is currently pursuing the M.S. degree in communication engineering, School of Information and Communication Engineering, [University of Electronic Science and Technology of China (UESTC)](https://en.uestc.edu.cn/), Chengdu, China. 
 
-His research interests include dual-function radar-communication systems, radar signal processing, millimeter-wave communications, one-bit signal processing, and mathematical optimization.
+His research interests include signal processing, massive MIMO, millimeter-wave technologies, mathematical optimization, integrated sensing and communication.
 
 # Research Areas
 
 - Statistical signal processing, matrix analysis, convex optimization
-- Dual-Function Radar-Communication (DFRC)
+- Integrated sensing and communication
 - Massive MIMO, hybrid beamforming
 - Intelligent reflecting surface
 
