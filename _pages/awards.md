@@ -1,6 +1,6 @@
 ---
 permalink: /awards/
-title: "Academic awards"
+title: "Competition Awards"
 ---
 
 - **Third Prize** of 13th National University Student Social Practice and Science Contest on Energy Saving & Emission Reduction of China, 2020<a href="{{ post.link }}"><i class="http://www.jienengjianpai.org/Article.asp?ID=219" aria-hidden="true"></i></a>
@@ -12,6 +12,15 @@ title: "Academic awards"
 - First Class Scholarship of UESTC, 2023. **(No. 1 in the vote)**
 - First Class Scholarship of UESTC, 2022. **(No. 1 in the vote)**
 - First Class Freshmen Scholarship of UESTC, 2021
-- Excellent Graduate Students, 2021
-- Excellent Graduation Thesis for Undergraduates, 2021
 - Excellent Academic Scholarship of WUT, 2018,2019,2020,2021
+
+# Merit Award
+
+- Excellent Graduate Students in Sichuan Province, 2023
+- Excellent Graduate Students in UESTC, 2023
+- Excellent Undergraduate Students of WUT, 2021
+- Excellent Undergraduate Thesis for Undergraduates of WUT, 2021
+
+# Academic Award
+
+- The Most Promising Young Researcher Award of Graduate Students in UESTC, 2023
